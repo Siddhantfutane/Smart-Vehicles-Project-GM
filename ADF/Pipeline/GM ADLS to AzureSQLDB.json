@@ -1,0 +1,119 @@
+{
+	"name": "GM ADLS to AzureSQLDB",
+	"properties": {
+		"activities": [
+			{
+				"name": "adls to azuresqldb",
+				"type": "Copy",
+				"dependsOn": [],
+				"policy": {
+					"timeout": "0.12:00:00",
+					"retry": 0,
+					"retryIntervalInSeconds": 30,
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"source": {
+						"type": "JsonSource",
+						"storeSettings": {
+							"type": "AzureBlobFSReadSettings",
+							"recursive": true,
+							"wildcardFileName": "*.json",
+							"enablePartitionDiscovery": false
+						},
+						"formatSettings": {
+							"type": "JsonReadSettings"
+						}
+					},
+					"sink": {
+						"type": "AzureSqlSink",
+						"writeBehavior": "upsert",
+						"upsertSettings": {
+							"useTempDB": true,
+							"keys": [
+								"VehicleID"
+							]
+						},
+						"sqlWriterUseTableLock": false,
+						"disableMetricsCollection": false
+					},
+					"enableStaging": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"path": "$['VehicleID']"
+								},
+								"sink": {
+									"name": "VehicleID",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"path": "$['latitude']"
+								},
+								"sink": {
+									"name": "latitude",
+									"type": "Decimal"
+								}
+							},
+							{
+								"source": {
+									"path": "$['longitude']"
+								},
+								"sink": {
+									"name": "longitude",
+									"type": "Decimal"
+								}
+							},
+							{
+								"source": {
+									"path": "$['City']"
+								},
+								"sink": {
+									"name": "City",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"path": "$['temperature']"
+								},
+								"sink": {
+									"name": "temperature",
+									"type": "Int32"
+								}
+							},
+							{
+								"source": {
+									"path": "$['speed']"
+								},
+								"sink": {
+									"name": "speed",
+									"type": "Int32"
+								}
+							}
+						]
+					}
+				},
+				"inputs": [
+					{
+						"referenceName": "Json4",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "GM_Azure_SQLDB_DS",
+						"type": "DatasetReference"
+					}
+				]
+			}
+		],
+		"annotations": []
+	}
+}
