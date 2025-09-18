@@ -1,0 +1,27 @@
+{
+	"name": "gm_json_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ADLS2_LS",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"landingFolder": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": {
+					"value": "@dataset().landingFolder",
+					"type": "Expression"
+				},
+				"fileSystem": "input"
+			}
+		},
+		"schema": {}
+	}
+}

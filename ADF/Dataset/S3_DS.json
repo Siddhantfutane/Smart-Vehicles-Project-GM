@@ -1,0 +1,76 @@
+{
+	"name": "S3_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "S3_LS",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"folderPath": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AmazonS3Location",
+				"bucketName": "iotdata-gm-s3",
+				"folderPath": {
+					"value": "@dataset().folderPath",
+					"type": "Expression"
+				}
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"CustomerID": {
+					"type": "integer"
+				},
+				"NameStyle": {
+					"type": "boolean"
+				},
+				"Title": {
+					"type": "string"
+				},
+				"FirstName": {
+					"type": "string"
+				},
+				"MiddleName": {
+					"type": "string"
+				},
+				"LastName": {
+					"type": "string"
+				},
+				"Suffix": {
+					"type": "string"
+				},
+				"CompanyName": {
+					"type": "string"
+				},
+				"SalesPerson": {
+					"type": "string"
+				},
+				"EmailAddress": {
+					"type": "string"
+				},
+				"Phone": {
+					"type": "string"
+				},
+				"PasswordHash": {
+					"type": "string"
+				},
+				"PasswordSalt": {
+					"type": "string"
+				},
+				"rowguid": {
+					"type": "string"
+				},
+				"ModifiedDate": {
+					"type": "string"
+				}
+			}
+		}
+	}
+}
