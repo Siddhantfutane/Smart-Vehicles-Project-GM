@@ -1,0 +1,4002 @@
+[
+    {
+        "VehicleID": "VH0001",
+        "latitude": 4.586096,
+        "longitude": 3.162929,
+        "City": "Toronto",
+        "temperature": -2,
+        "speed": 49
+    },
+    {
+        "VehicleID": "VH0002",
+        "latitude": 34.634625,
+        "longitude": 106.232112,
+        "City": "New York",
+        "temperature": 15,
+        "speed": 178
+    },
+    {
+        "VehicleID": "VH0003",
+        "latitude": -13.908894,
+        "longitude": 100.536895,
+        "City": "Rio",
+        "temperature": 39,
+        "speed": 152
+    },
+    {
+        "VehicleID": "VH0004",
+        "latitude": -63.613571,
+        "longitude": -131.567802,
+        "City": "Sydney",
+        "temperature": 41,
+        "speed": 174
+    },
+    {
+        "VehicleID": "VH0005",
+        "latitude": -33.277926,
+        "longitude": 32.155235,
+        "City": "Sydney",
+        "temperature": 38,
+        "speed": 85
+    },
+    {
+        "VehicleID": "VH0006",
+        "latitude": 46.357983,
+        "longitude": 113.788296,
+        "City": "Rio",
+        "temperature": 35,
+        "speed": 132
+    },
+    {
+        "VehicleID": "VH0007",
+        "latitude": -49.661205,
+        "longitude": 30.659326,
+        "City": "Toronto",
+        "temperature": 44,
+        "speed": 190
+    },
+    {
+        "VehicleID": "VH0008",
+        "latitude": 33.780755,
+        "longitude": 134.103134,
+        "City": "London",
+        "temperature": 27,
+        "speed": 57
+    },
+    {
+        "VehicleID": "VH0009",
+        "latitude": -49.76717,
+        "longitude": 147.923119,
+        "City": "Mumbai",
+        "temperature": 39,
+        "speed": 62
+    },
+    {
+        "VehicleID": "VH0010",
+        "latitude": -59.56662,
+        "longitude": 92.673877,
+        "City": "Paris",
+        "temperature": 18,
+        "speed": 110
+    },
+    {
+        "VehicleID": "VH0011",
+        "latitude": 76.269086,
+        "longitude": -96.421256,
+        "City": "Paris",
+        "temperature": 23,
+        "speed": 139
+    },
+    {
+        "VehicleID": "VH0012",
+        "latitude": -14.265464,
+        "longitude": 22.331183,
+        "City": "Berlin",
+        "temperature": 40,
+        "speed": 70
+    },
+    {
+        "VehicleID": "VH0013",
+        "latitude": -0.299414,
+        "longitude": 60.848789,
+        "City": "London",
+        "temperature": 34,
+        "speed": 53
+    },
+    {
+        "VehicleID": "VH0014",
+        "latitude": 26.283954,
+        "longitude": 118.338644,
+        "City": "Rio",
+        "temperature": 9,
+        "speed": 107
+    },
+    {
+        "VehicleID": "VH0015",
+        "latitude": 0.651819,
+        "longitude": -111.16099,
+        "City": "Berlin",
+        "temperature": -4,
+        "speed": 65
+    },
+    {
+        "VehicleID": "VH0016",
+        "latitude": -31.395962,
+        "longitude": 107.428782,
+        "City": "New York",
+        "temperature": 20,
+        "speed": 169
+    },
+    {
+        "VehicleID": "VH0017",
+        "latitude": -45.132826,
+        "longitude": 165.878683,
+        "City": "Rio",
+        "temperature": -7,
+        "speed": 124
+    },
+    {
+        "VehicleID": "VH0018",
+        "latitude": 89.881687,
+        "longitude": 134.192873,
+        "City": "Berlin",
+        "temperature": 1,
+        "speed": 175
+    },
+    {
+        "VehicleID": "VH0019",
+        "latitude": 38.759163,
+        "longitude": 19.419915,
+        "City": "Los Angeles",
+        "temperature": 36,
+        "speed": 123
+    },
+    {
+        "VehicleID": "VH0020",
+        "latitude": 39.140565,
+        "longitude": 13.493038,
+        "City": "Tokyo",
+        "temperature": 29,
+        "speed": 146
+    },
+    {
+        "VehicleID": "VH0021",
+        "latitude": -76.320689,
+        "longitude": 129.414305,
+        "City": "London",
+        "temperature": 21,
+        "speed": 186
+    },
+    {
+        "VehicleID": "VH0022",
+        "latitude": -23.22828,
+        "longitude": 63.453122,
+        "City": "Tokyo",
+        "temperature": 41,
+        "speed": 107
+    },
+    {
+        "VehicleID": "VH0023",
+        "latitude": 10.209563,
+        "longitude": 13.512664,
+        "City": "London",
+        "temperature": -10,
+        "speed": 83
+    },
+    {
+        "VehicleID": "VH0024",
+        "latitude": -84.553562,
+        "longitude": 115.039505,
+        "City": "New York",
+        "temperature": 25,
+        "speed": 10
+    },
+    {
+        "VehicleID": "VH0025",
+        "latitude": 80.609222,
+        "longitude": -26.840875,
+        "City": "Toronto",
+        "temperature": 42,
+        "speed": 1
+    },
+    {
+        "VehicleID": "VH0026",
+        "latitude": 55.940296,
+        "longitude": -52.331819,
+        "City": "Sydney",
+        "temperature": 22,
+        "speed": 96
+    },
+    {
+        "VehicleID": "VH0027",
+        "latitude": -49.369179,
+        "longitude": -114.07126,
+        "City": "Mumbai",
+        "temperature": 0,
+        "speed": 119
+    },
+    {
+        "VehicleID": "VH0028",
+        "latitude": -65.432892,
+        "longitude": -126.271193,
+        "City": "Berlin",
+        "temperature": 26,
+        "speed": 18
+    },
+    {
+        "VehicleID": "VH0029",
+        "latitude": 65.52744,
+        "longitude": -139.384769,
+        "City": "Rio",
+        "temperature": 8,
+        "speed": 110
+    },
+    {
+        "VehicleID": "VH0030",
+        "latitude": -53.528285,
+        "longitude": -101.593009,
+        "City": "Los Angeles",
+        "temperature": 11,
+        "speed": 37
+    },
+    {
+        "VehicleID": "VH0031",
+        "latitude": -88.09781,
+        "longitude": 79.155906,
+        "City": "Berlin",
+        "temperature": 32,
+        "speed": 85
+    },
+    {
+        "VehicleID": "VH0032",
+        "latitude": -37.187298,
+        "longitude": 4.227774,
+        "City": "Mumbai",
+        "temperature": 33,
+        "speed": 27
+    },
+    {
+        "VehicleID": "VH0033",
+        "latitude": 3.963867,
+        "longitude": 83.895487,
+        "City": "Tokyo",
+        "temperature": 21,
+        "speed": 40
+    },
+    {
+        "VehicleID": "VH0034",
+        "latitude": -73.193984,
+        "longitude": 167.16938,
+        "City": "London",
+        "temperature": 6,
+        "speed": 69
+    },
+    {
+        "VehicleID": "VH0035",
+        "latitude": -1.426614,
+        "longitude": 72.680099,
+        "City": "Paris",
+        "temperature": -1,
+        "speed": 41
+    },
+    {
+        "VehicleID": "VH0036",
+        "latitude": 28.283891,
+        "longitude": 17.596882,
+        "City": "Paris",
+        "temperature": -7,
+        "speed": 194
+    },
+    {
+        "VehicleID": "VH0037",
+        "latitude": -35.759046,
+        "longitude": -67.361657,
+        "City": "Rio",
+        "temperature": 44,
+        "speed": 152
+    },
+    {
+        "VehicleID": "VH0038",
+        "latitude": -73.441319,
+        "longitude": -54.454396,
+        "City": "Sydney",
+        "temperature": 0,
+        "speed": 197
+    },
+    {
+        "VehicleID": "VH0039",
+        "latitude": 12.200312,
+        "longitude": -86.432759,
+        "City": "Berlin",
+        "temperature": 8,
+        "speed": 12
+    },
+    {
+        "VehicleID": "VH0040",
+        "latitude": -54.461185,
+        "longitude": -123.587626,
+        "City": "Paris",
+        "temperature": -4,
+        "speed": 76
+    },
+    {
+        "VehicleID": "VH0041",
+        "latitude": -81.010586,
+        "longitude": -152.673431,
+        "City": "Tokyo",
+        "temperature": 25,
+        "speed": 178
+    },
+    {
+        "VehicleID": "VH0042",
+        "latitude": 11.800999,
+        "longitude": 78.578899,
+        "City": "Mumbai",
+        "temperature": 12,
+        "speed": 153
+    },
+    {
+        "VehicleID": "VH0043",
+        "latitude": 82.736421,
+        "longitude": 70.750994,
+        "City": "Mumbai",
+        "temperature": 19,
+        "speed": 137
+    },
+    {
+        "VehicleID": "VH0044",
+        "latitude": -24.544978,
+        "longitude": 138.024997,
+        "City": "Mumbai",
+        "temperature": -5,
+        "speed": 177
+    },
+    {
+        "VehicleID": "VH0045",
+        "latitude": -11.542907,
+        "longitude": 166.312349,
+        "City": "Sydney",
+        "temperature": 40,
+        "speed": 195
+    },
+    {
+        "VehicleID": "VH0046",
+        "latitude": -21.731276,
+        "longitude": -156.512954,
+        "City": "Berlin",
+        "temperature": 26,
+        "speed": 69
+    },
+    {
+        "VehicleID": "VH0047",
+        "latitude": -24.737694,
+        "longitude": -75.005326,
+        "City": "Los Angeles",
+        "temperature": 29,
+        "speed": 110
+    },
+    {
+        "VehicleID": "VH0048",
+        "latitude": 23.63354,
+        "longitude": -40.246109,
+        "City": "Los Angeles",
+        "temperature": 29,
+        "speed": 18
+    },
+    {
+        "VehicleID": "VH0049",
+        "latitude": 42.484898,
+        "longitude": -16.525169,
+        "City": "New York",
+        "temperature": 40,
+        "speed": 132
+    },
+    {
+        "VehicleID": "VH0050",
+        "latitude": -85.385183,
+        "longitude": 33.484485,
+        "City": "New York",
+        "temperature": 31,
+        "speed": 194
+    },
+    {
+        "VehicleID": "VH0051",
+        "latitude": -34.147977,
+        "longitude": 41.704796,
+        "City": "Tokyo",
+        "temperature": 21,
+        "speed": 107
+    },
+    {
+        "VehicleID": "VH0052",
+        "latitude": -35.765012,
+        "longitude": -175.159278,
+        "City": "London",
+        "temperature": -6,
+        "speed": 88
+    },
+    {
+        "VehicleID": "VH0053",
+        "latitude": 70.334287,
+        "longitude": -68.830266,
+        "City": "Berlin",
+        "temperature": 8,
+        "speed": 67
+    },
+    {
+        "VehicleID": "VH0054",
+        "latitude": 63.458235,
+        "longitude": -24.501695,
+        "City": "Rio",
+        "temperature": 40,
+        "speed": 82
+    },
+    {
+        "VehicleID": "VH0055",
+        "latitude": -75.768739,
+        "longitude": 24.123958,
+        "City": "London",
+        "temperature": 2,
+        "speed": 121
+    },
+    {
+        "VehicleID": "VH0056",
+        "latitude": 89.789158,
+        "longitude": 165.222827,
+        "City": "Mumbai",
+        "temperature": 20,
+        "speed": 4
+    },
+    {
+        "VehicleID": "VH0057",
+        "latitude": 84.800845,
+        "longitude": -169.853369,
+        "City": "Rio",
+        "temperature": 28,
+        "speed": 130
+    },
+    {
+        "VehicleID": "VH0058",
+        "latitude": -78.79658,
+        "longitude": 10.618918,
+        "City": "Sydney",
+        "temperature": 35,
+        "speed": 193
+    },
+    {
+        "VehicleID": "VH0059",
+        "latitude": -29.453169,
+        "longitude": 121.043521,
+        "City": "Berlin",
+        "temperature": 9,
+        "speed": 115
+    },
+    {
+        "VehicleID": "VH0060",
+        "latitude": -82.240571,
+        "longitude": 82.369092,
+        "City": "New York",
+        "temperature": 38,
+        "speed": 22
+    },
+    {
+        "VehicleID": "VH0061",
+        "latitude": 32.893721,
+        "longitude": -132.566781,
+        "City": "New York",
+        "temperature": 34,
+        "speed": 188
+    },
+    {
+        "VehicleID": "VH0062",
+        "latitude": 73.34706,
+        "longitude": 50.794522,
+        "City": "Sydney",
+        "temperature": 25,
+        "speed": 111
+    },
+    {
+        "VehicleID": "VH0063",
+        "latitude": 33.3115,
+        "longitude": 80.194851,
+        "City": "Berlin",
+        "temperature": 23,
+        "speed": 26
+    },
+    {
+        "VehicleID": "VH0064",
+        "latitude": 75.992889,
+        "longitude": 173.927536,
+        "City": "Mumbai",
+        "temperature": 45,
+        "speed": 17
+    },
+    {
+        "VehicleID": "VH0065",
+        "latitude": -66.186494,
+        "longitude": -18.634705,
+        "City": "Los Angeles",
+        "temperature": 33,
+        "speed": 121
+    },
+    {
+        "VehicleID": "VH0066",
+        "latitude": 59.85417,
+        "longitude": 174.499908,
+        "City": "Rio",
+        "temperature": 14,
+        "speed": 79
+    },
+    {
+        "VehicleID": "VH0067",
+        "latitude": 10.140448,
+        "longitude": 80.140615,
+        "City": "Mumbai",
+        "temperature": 26,
+        "speed": 72
+    },
+    {
+        "VehicleID": "VH0068",
+        "latitude": 84.983622,
+        "longitude": 100.803289,
+        "City": "London",
+        "temperature": -9,
+        "speed": 0
+    },
+    {
+        "VehicleID": "VH0069",
+        "latitude": -62.550645,
+        "longitude": 81.704488,
+        "City": "Sydney",
+        "temperature": -3,
+        "speed": 159
+    },
+    {
+        "VehicleID": "VH0070",
+        "latitude": -33.268364,
+        "longitude": 167.886941,
+        "City": "Tokyo",
+        "temperature": 1,
+        "speed": 118
+    },
+    {
+        "VehicleID": "VH0071",
+        "latitude": 25.76837,
+        "longitude": -12.86091,
+        "City": "Los Angeles",
+        "temperature": -4,
+        "speed": 189
+    },
+    {
+        "VehicleID": "VH0072",
+        "latitude": 42.92063,
+        "longitude": 35.118313,
+        "City": "Paris",
+        "temperature": 15,
+        "speed": 182
+    },
+    {
+        "VehicleID": "VH0073",
+        "latitude": -74.579583,
+        "longitude": -48.224177,
+        "City": "Berlin",
+        "temperature": 17,
+        "speed": 2
+    },
+    {
+        "VehicleID": "VH0074",
+        "latitude": 20.871287,
+        "longitude": -74.369867,
+        "City": "Mumbai",
+        "temperature": -2,
+        "speed": 94
+    },
+    {
+        "VehicleID": "VH0075",
+        "latitude": -12.478459,
+        "longitude": 157.021616,
+        "City": "Mumbai",
+        "temperature": 38,
+        "speed": 139
+    },
+    {
+        "VehicleID": "VH0076",
+        "latitude": -14.356445,
+        "longitude": 111.165252,
+        "City": "Tokyo",
+        "temperature": 1,
+        "speed": 93
+    },
+    {
+        "VehicleID": "VH0077",
+        "latitude": -16.262257,
+        "longitude": -20.104162,
+        "City": "Toronto",
+        "temperature": 41,
+        "speed": 54
+    },
+    {
+        "VehicleID": "VH0078",
+        "latitude": -47.252671,
+        "longitude": -42.821909,
+        "City": "London",
+        "temperature": 17,
+        "speed": 98
+    },
+    {
+        "VehicleID": "VH0079",
+        "latitude": -38.972701,
+        "longitude": -125.028925,
+        "City": "Sydney",
+        "temperature": 27,
+        "speed": 68
+    },
+    {
+        "VehicleID": "VH0080",
+        "latitude": -12.591895,
+        "longitude": -129.112579,
+        "City": "Sydney",
+        "temperature": 30,
+        "speed": 43
+    },
+    {
+        "VehicleID": "VH0081",
+        "latitude": 88.770626,
+        "longitude": -94.472221,
+        "City": "Paris",
+        "temperature": 19,
+        "speed": 130
+    },
+    {
+        "VehicleID": "VH0082",
+        "latitude": -78.987396,
+        "longitude": -55.794623,
+        "City": "Tokyo",
+        "temperature": 9,
+        "speed": 24
+    },
+    {
+        "VehicleID": "VH0083",
+        "latitude": -9.192421,
+        "longitude": -25.532227,
+        "City": "Tokyo",
+        "temperature": -4,
+        "speed": 81
+    },
+    {
+        "VehicleID": "VH0084",
+        "latitude": 66.811494,
+        "longitude": -22.890283,
+        "City": "London",
+        "temperature": 29,
+        "speed": 122
+    },
+    {
+        "VehicleID": "VH0085",
+        "latitude": 5.749454,
+        "longitude": 28.73811,
+        "City": "London",
+        "temperature": 4,
+        "speed": 90
+    },
+    {
+        "VehicleID": "VH0086",
+        "latitude": -55.558226,
+        "longitude": -76.262462,
+        "City": "Mumbai",
+        "temperature": 34,
+        "speed": 131
+    },
+    {
+        "VehicleID": "VH0087",
+        "latitude": 53.226517,
+        "longitude": 135.082787,
+        "City": "Los Angeles",
+        "temperature": 20,
+        "speed": 5
+    },
+    {
+        "VehicleID": "VH0088",
+        "latitude": -43.811676,
+        "longitude": 131.359335,
+        "City": "Toronto",
+        "temperature": 20,
+        "speed": 183
+    },
+    {
+        "VehicleID": "VH0089",
+        "latitude": 15.065677,
+        "longitude": 110.139041,
+        "City": "Los Angeles",
+        "temperature": -5,
+        "speed": 97
+    },
+    {
+        "VehicleID": "VH0090",
+        "latitude": 11.913182,
+        "longitude": 111.052615,
+        "City": "Toronto",
+        "temperature": 34,
+        "speed": 38
+    },
+    {
+        "VehicleID": "VH0091",
+        "latitude": -4.126481,
+        "longitude": -142.192882,
+        "City": "Paris",
+        "temperature": -8,
+        "speed": 41
+    },
+    {
+        "VehicleID": "VH0092",
+        "latitude": 30.772741,
+        "longitude": -136.537734,
+        "City": "New York",
+        "temperature": 34,
+        "speed": 135
+    },
+    {
+        "VehicleID": "VH0093",
+        "latitude": -75.755432,
+        "longitude": 67.287871,
+        "City": "New York",
+        "temperature": 9,
+        "speed": 131
+    },
+    {
+        "VehicleID": "VH0094",
+        "latitude": -35.73804,
+        "longitude": -75.639093,
+        "City": "London",
+        "temperature": 44,
+        "speed": 99
+    },
+    {
+        "VehicleID": "VH0095",
+        "latitude": -60.768949,
+        "longitude": 146.532214,
+        "City": "Sydney",
+        "temperature": 30,
+        "speed": 84
+    },
+    {
+        "VehicleID": "VH0096",
+        "latitude": -28.146046,
+        "longitude": 134.310983,
+        "City": "Tokyo",
+        "temperature": 18,
+        "speed": 153
+    },
+    {
+        "VehicleID": "VH0097",
+        "latitude": 28.590625,
+        "longitude": -29.101813,
+        "City": "Rio",
+        "temperature": 4,
+        "speed": 189
+    },
+    {
+        "VehicleID": "VH0098",
+        "latitude": 68.109293,
+        "longitude": 108.245503,
+        "City": "Toronto",
+        "temperature": 28,
+        "speed": 62
+    },
+    {
+        "VehicleID": "VH0099",
+        "latitude": 87.943977,
+        "longitude": -67.655348,
+        "City": "Tokyo",
+        "temperature": -3,
+        "speed": 50
+    },
+    {
+        "VehicleID": "VH0100",
+        "latitude": 31.783114,
+        "longitude": 47.982716,
+        "City": "New York",
+        "temperature": 23,
+        "speed": 71
+    },
+    {
+        "VehicleID": "VH0101",
+        "latitude": -42.919676,
+        "longitude": 75.613275,
+        "City": "Tokyo",
+        "temperature": 1,
+        "speed": 112
+    },
+    {
+        "VehicleID": "VH0102",
+        "latitude": -58.909658,
+        "longitude": 29.796407,
+        "City": "London",
+        "temperature": -3,
+        "speed": 144
+    },
+    {
+        "VehicleID": "VH0103",
+        "latitude": -20.314618,
+        "longitude": -21.145917,
+        "City": "New York",
+        "temperature": 15,
+        "speed": 170
+    },
+    {
+        "VehicleID": "VH0104",
+        "latitude": -68.084338,
+        "longitude": -129.439718,
+        "City": "Rio",
+        "temperature": 25,
+        "speed": 77
+    },
+    {
+        "VehicleID": "VH0105",
+        "latitude": -32.589765,
+        "longitude": 71.044014,
+        "City": "London",
+        "temperature": 17,
+        "speed": 167
+    },
+    {
+        "VehicleID": "VH0106",
+        "latitude": 16.573995,
+        "longitude": 61.175201,
+        "City": "New York",
+        "temperature": 10,
+        "speed": 131
+    },
+    {
+        "VehicleID": "VH0107",
+        "latitude": 26.81978,
+        "longitude": -148.007338,
+        "City": "Berlin",
+        "temperature": 35,
+        "speed": 181
+    },
+    {
+        "VehicleID": "VH0108",
+        "latitude": 81.007818,
+        "longitude": -69.400293,
+        "City": "New York",
+        "temperature": -8,
+        "speed": 90
+    },
+    {
+        "VehicleID": "VH0109",
+        "latitude": 7.879963,
+        "longitude": 122.548321,
+        "City": "Mumbai",
+        "temperature": 11,
+        "speed": 126
+    },
+    {
+        "VehicleID": "VH0110",
+        "latitude": 84.720924,
+        "longitude": -129.194754,
+        "City": "Paris",
+        "temperature": -10,
+        "speed": 56
+    },
+    {
+        "VehicleID": "VH0111",
+        "latitude": 40.651979,
+        "longitude": 140.763006,
+        "City": "Toronto",
+        "temperature": 24,
+        "speed": 16
+    },
+    {
+        "VehicleID": "VH0112",
+        "latitude": 30.55875,
+        "longitude": 150.791506,
+        "City": "London",
+        "temperature": 36,
+        "speed": 86
+    },
+    {
+        "VehicleID": "VH0113",
+        "latitude": -53.916021,
+        "longitude": -65.776257,
+        "City": "Rio",
+        "temperature": 29,
+        "speed": 160
+    },
+    {
+        "VehicleID": "VH0114",
+        "latitude": 52.846314,
+        "longitude": -66.352448,
+        "City": "Tokyo",
+        "temperature": 43,
+        "speed": 90
+    },
+    {
+        "VehicleID": "VH0115",
+        "latitude": -33.07594,
+        "longitude": -38.459573,
+        "City": "Tokyo",
+        "temperature": 32,
+        "speed": 161
+    },
+    {
+        "VehicleID": "VH0116",
+        "latitude": -41.594078,
+        "longitude": 74.872918,
+        "City": "Los Angeles",
+        "temperature": -4,
+        "speed": 54
+    },
+    {
+        "VehicleID": "VH0117",
+        "latitude": 71.910784,
+        "longitude": -20.179893,
+        "City": "Toronto",
+        "temperature": 37,
+        "speed": 166
+    },
+    {
+        "VehicleID": "VH0118",
+        "latitude": -84.576926,
+        "longitude": 134.065785,
+        "City": "Rio",
+        "temperature": 12,
+        "speed": 87
+    },
+    {
+        "VehicleID": "VH0119",
+        "latitude": 32.160587,
+        "longitude": -115.91719,
+        "City": "Berlin",
+        "temperature": 16,
+        "speed": 60
+    },
+    {
+        "VehicleID": "VH0120",
+        "latitude": -72.310104,
+        "longitude": -49.564267,
+        "City": "Toronto",
+        "temperature": 25,
+        "speed": 165
+    },
+    {
+        "VehicleID": "VH0121",
+        "latitude": -60.822727,
+        "longitude": 126.076919,
+        "City": "Rio",
+        "temperature": 43,
+        "speed": 92
+    },
+    {
+        "VehicleID": "VH0122",
+        "latitude": 66.531933,
+        "longitude": 120.079686,
+        "City": "Mumbai",
+        "temperature": 7,
+        "speed": 72
+    },
+    {
+        "VehicleID": "VH0123",
+        "latitude": -68.996418,
+        "longitude": -52.045715,
+        "City": "Tokyo",
+        "temperature": -2,
+        "speed": 32
+    },
+    {
+        "VehicleID": "VH0124",
+        "latitude": 55.768433,
+        "longitude": 132.377894,
+        "City": "New York",
+        "temperature": 15,
+        "speed": 102
+    },
+    {
+        "VehicleID": "VH0125",
+        "latitude": -71.521104,
+        "longitude": -3.280827,
+        "City": "Paris",
+        "temperature": -3,
+        "speed": 84
+    },
+    {
+        "VehicleID": "VH0126",
+        "latitude": -7.435659,
+        "longitude": -56.675514,
+        "City": "Mumbai",
+        "temperature": 6,
+        "speed": 116
+    },
+    {
+        "VehicleID": "VH0127",
+        "latitude": -7.257901,
+        "longitude": -53.016667,
+        "City": "New York",
+        "temperature": 42,
+        "speed": 0
+    },
+    {
+        "VehicleID": "VH0128",
+        "latitude": -3.437002,
+        "longitude": 35.572545,
+        "City": "Mumbai",
+        "temperature": 3,
+        "speed": 34
+    },
+    {
+        "VehicleID": "VH0129",
+        "latitude": 39.223094,
+        "longitude": -120.184533,
+        "City": "Los Angeles",
+        "temperature": 43,
+        "speed": 132
+    },
+    {
+        "VehicleID": "VH0130",
+        "latitude": 16.685995,
+        "longitude": -133.636949,
+        "City": "Rio",
+        "temperature": 16,
+        "speed": 138
+    },
+    {
+        "VehicleID": "VH0131",
+        "latitude": -70.781674,
+        "longitude": 51.554329,
+        "City": "London",
+        "temperature": 36,
+        "speed": 129
+    },
+    {
+        "VehicleID": "VH0132",
+        "latitude": -9.205008,
+        "longitude": 17.839249,
+        "City": "Rio",
+        "temperature": 31,
+        "speed": 197
+    },
+    {
+        "VehicleID": "VH0133",
+        "latitude": -1.579867,
+        "longitude": -110.667774,
+        "City": "Mumbai",
+        "temperature": -7,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0134",
+        "latitude": -69.261348,
+        "longitude": -170.428722,
+        "City": "Toronto",
+        "temperature": 42,
+        "speed": 126
+    },
+    {
+        "VehicleID": "VH0135",
+        "latitude": -37.613645,
+        "longitude": 114.253797,
+        "City": "Paris",
+        "temperature": 19,
+        "speed": 22
+    },
+    {
+        "VehicleID": "VH0136",
+        "latitude": 61.552364,
+        "longitude": -164.505198,
+        "City": "Los Angeles",
+        "temperature": 29,
+        "speed": 166
+    },
+    {
+        "VehicleID": "VH0137",
+        "latitude": 34.979885,
+        "longitude": 164.063805,
+        "City": "London",
+        "temperature": 25,
+        "speed": 75
+    },
+    {
+        "VehicleID": "VH0138",
+        "latitude": -82.983024,
+        "longitude": 136.587583,
+        "City": "Los Angeles",
+        "temperature": 5,
+        "speed": 54
+    },
+    {
+        "VehicleID": "VH0139",
+        "latitude": -63.783195,
+        "longitude": -71.541344,
+        "City": "Tokyo",
+        "temperature": 11,
+        "speed": 83
+    },
+    {
+        "VehicleID": "VH0140",
+        "latitude": 69.993628,
+        "longitude": -67.018583,
+        "City": "London",
+        "temperature": 34,
+        "speed": 137
+    },
+    {
+        "VehicleID": "VH0141",
+        "latitude": -21.745505,
+        "longitude": 126.503411,
+        "City": "Berlin",
+        "temperature": -10,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0142",
+        "latitude": -20.294054,
+        "longitude": 52.481986,
+        "City": "Mumbai",
+        "temperature": 5,
+        "speed": 23
+    },
+    {
+        "VehicleID": "VH0143",
+        "latitude": 7.696069,
+        "longitude": -91.92514,
+        "City": "Paris",
+        "temperature": 43,
+        "speed": 129
+    },
+    {
+        "VehicleID": "VH0144",
+        "latitude": 48.247339,
+        "longitude": 24.074933,
+        "City": "Paris",
+        "temperature": -3,
+        "speed": 160
+    },
+    {
+        "VehicleID": "VH0145",
+        "latitude": 63.186306,
+        "longitude": -59.10842,
+        "City": "Berlin",
+        "temperature": 18,
+        "speed": 21
+    },
+    {
+        "VehicleID": "VH0146",
+        "latitude": -80.41898,
+        "longitude": -115.372745,
+        "City": "Sydney",
+        "temperature": 10,
+        "speed": 5
+    },
+    {
+        "VehicleID": "VH0147",
+        "latitude": 5.750693,
+        "longitude": 146.921186,
+        "City": "London",
+        "temperature": 8,
+        "speed": 168
+    },
+    {
+        "VehicleID": "VH0148",
+        "latitude": 70.896285,
+        "longitude": 142.081046,
+        "City": "Toronto",
+        "temperature": 27,
+        "speed": 54
+    },
+    {
+        "VehicleID": "VH0149",
+        "latitude": -68.147509,
+        "longitude": 64.041717,
+        "City": "New York",
+        "temperature": 37,
+        "speed": 194
+    },
+    {
+        "VehicleID": "VH0150",
+        "latitude": 36.378582,
+        "longitude": 143.193467,
+        "City": "Paris",
+        "temperature": -7,
+        "speed": 179
+    },
+    {
+        "VehicleID": "VH0151",
+        "latitude": -72.327344,
+        "longitude": 175.893275,
+        "City": "London",
+        "temperature": 27,
+        "speed": 123
+    },
+    {
+        "VehicleID": "VH0152",
+        "latitude": -74.793047,
+        "longitude": -72.132957,
+        "City": "New York",
+        "temperature": -5,
+        "speed": 66
+    },
+    {
+        "VehicleID": "VH0153",
+        "latitude": 50.905573,
+        "longitude": 112.347089,
+        "City": "Mumbai",
+        "temperature": 8,
+        "speed": 175
+    },
+    {
+        "VehicleID": "VH0154",
+        "latitude": -42.219626,
+        "longitude": -142.290241,
+        "City": "Sydney",
+        "temperature": 39,
+        "speed": 100
+    },
+    {
+        "VehicleID": "VH0155",
+        "latitude": 12.100569,
+        "longitude": -127.784432,
+        "City": "Tokyo",
+        "temperature": 24,
+        "speed": 155
+    },
+    {
+        "VehicleID": "VH0156",
+        "latitude": 22.663104,
+        "longitude": -143.971475,
+        "City": "Mumbai",
+        "temperature": 1,
+        "speed": 23
+    },
+    {
+        "VehicleID": "VH0157",
+        "latitude": 72.085618,
+        "longitude": -16.909502,
+        "City": "Sydney",
+        "temperature": 30,
+        "speed": 38
+    },
+    {
+        "VehicleID": "VH0158",
+        "latitude": -57.279016,
+        "longitude": 164.944117,
+        "City": "Berlin",
+        "temperature": 27,
+        "speed": 47
+    },
+    {
+        "VehicleID": "VH0159",
+        "latitude": 77.016901,
+        "longitude": 73.378481,
+        "City": "Toronto",
+        "temperature": 29,
+        "speed": 178
+    },
+    {
+        "VehicleID": "VH0160",
+        "latitude": 23.851721,
+        "longitude": -79.739121,
+        "City": "Toronto",
+        "temperature": 14,
+        "speed": 138
+    },
+    {
+        "VehicleID": "VH0161",
+        "latitude": 5.832382,
+        "longitude": -60.379578,
+        "City": "Mumbai",
+        "temperature": 14,
+        "speed": 106
+    },
+    {
+        "VehicleID": "VH0162",
+        "latitude": 26.490598,
+        "longitude": -0.951767,
+        "City": "Los Angeles",
+        "temperature": -1,
+        "speed": 134
+    },
+    {
+        "VehicleID": "VH0163",
+        "latitude": -77.046783,
+        "longitude": 144.652835,
+        "City": "Berlin",
+        "temperature": -3,
+        "speed": 64
+    },
+    {
+        "VehicleID": "VH0164",
+        "latitude": 25.430744,
+        "longitude": 90.569914,
+        "City": "Berlin",
+        "temperature": -2,
+        "speed": 196
+    },
+    {
+        "VehicleID": "VH0165",
+        "latitude": 36.3075,
+        "longitude": -62.948467,
+        "City": "Tokyo",
+        "temperature": 34,
+        "speed": 173
+    },
+    {
+        "VehicleID": "VH0166",
+        "latitude": -52.77662,
+        "longitude": 61.032279,
+        "City": "Tokyo",
+        "temperature": 20,
+        "speed": 72
+    },
+    {
+        "VehicleID": "VH0167",
+        "latitude": 22.961458,
+        "longitude": -78.557065,
+        "City": "Sydney",
+        "temperature": 25,
+        "speed": 155
+    },
+    {
+        "VehicleID": "VH0168",
+        "latitude": -44.901341,
+        "longitude": 170.837173,
+        "City": "Tokyo",
+        "temperature": 9,
+        "speed": 14
+    },
+    {
+        "VehicleID": "VH0169",
+        "latitude": 87.803062,
+        "longitude": 6.086686,
+        "City": "Berlin",
+        "temperature": 41,
+        "speed": 106
+    },
+    {
+        "VehicleID": "VH0170",
+        "latitude": 77.58514,
+        "longitude": 170.267111,
+        "City": "Mumbai",
+        "temperature": 32,
+        "speed": 158
+    },
+    {
+        "VehicleID": "VH0171",
+        "latitude": 8.937194,
+        "longitude": 77.734725,
+        "City": "Tokyo",
+        "temperature": 37,
+        "speed": 15
+    },
+    {
+        "VehicleID": "VH0172",
+        "latitude": 36.344469,
+        "longitude": 65.973022,
+        "City": "Toronto",
+        "temperature": 21,
+        "speed": 177
+    },
+    {
+        "VehicleID": "VH0173",
+        "latitude": -39.855804,
+        "longitude": 170.238532,
+        "City": "Toronto",
+        "temperature": 39,
+        "speed": 146
+    },
+    {
+        "VehicleID": "VH0174",
+        "latitude": 49.237838,
+        "longitude": -138.964619,
+        "City": "Paris",
+        "temperature": -7,
+        "speed": 35
+    },
+    {
+        "VehicleID": "VH0175",
+        "latitude": -66.665342,
+        "longitude": 116.881646,
+        "City": "Mumbai",
+        "temperature": 3,
+        "speed": 182
+    },
+    {
+        "VehicleID": "VH0176",
+        "latitude": -24.25363,
+        "longitude": -170.968438,
+        "City": "Mumbai",
+        "temperature": 37,
+        "speed": 73
+    },
+    {
+        "VehicleID": "VH0177",
+        "latitude": -43.743198,
+        "longitude": -69.80218,
+        "City": "Rio",
+        "temperature": 43,
+        "speed": 121
+    },
+    {
+        "VehicleID": "VH0178",
+        "latitude": -44.748481,
+        "longitude": 131.645487,
+        "City": "Sydney",
+        "temperature": 33,
+        "speed": 4
+    },
+    {
+        "VehicleID": "VH0179",
+        "latitude": -17.600277,
+        "longitude": 75.380807,
+        "City": "Rio",
+        "temperature": 45,
+        "speed": 44
+    },
+    {
+        "VehicleID": "VH0180",
+        "latitude": -81.430684,
+        "longitude": -65.259742,
+        "City": "Los Angeles",
+        "temperature": 4,
+        "speed": 87
+    },
+    {
+        "VehicleID": "VH0181",
+        "latitude": -64.009582,
+        "longitude": 173.507487,
+        "City": "Los Angeles",
+        "temperature": 18,
+        "speed": 186
+    },
+    {
+        "VehicleID": "VH0182",
+        "latitude": 62.762549,
+        "longitude": -94.83272,
+        "City": "Paris",
+        "temperature": 27,
+        "speed": 27
+    },
+    {
+        "VehicleID": "VH0183",
+        "latitude": 34.654929,
+        "longitude": -158.614854,
+        "City": "New York",
+        "temperature": 16,
+        "speed": 42
+    },
+    {
+        "VehicleID": "VH0184",
+        "latitude": -47.796972,
+        "longitude": 14.646694,
+        "City": "Toronto",
+        "temperature": -8,
+        "speed": 13
+    },
+    {
+        "VehicleID": "VH0185",
+        "latitude": 12.954964,
+        "longitude": 74.79374,
+        "City": "Tokyo",
+        "temperature": 13,
+        "speed": 178
+    },
+    {
+        "VehicleID": "VH0186",
+        "latitude": -49.336989,
+        "longitude": 160.240928,
+        "City": "Paris",
+        "temperature": 1,
+        "speed": 55
+    },
+    {
+        "VehicleID": "VH0187",
+        "latitude": -86.101684,
+        "longitude": 165.794478,
+        "City": "Toronto",
+        "temperature": -4,
+        "speed": 88
+    },
+    {
+        "VehicleID": "VH0188",
+        "latitude": -38.421887,
+        "longitude": 119.775106,
+        "City": "London",
+        "temperature": 23,
+        "speed": 8
+    },
+    {
+        "VehicleID": "VH0189",
+        "latitude": -41.649352,
+        "longitude": -66.235507,
+        "City": "Mumbai",
+        "temperature": 34,
+        "speed": 87
+    },
+    {
+        "VehicleID": "VH0190",
+        "latitude": 80.74887,
+        "longitude": 53.888506,
+        "City": "Toronto",
+        "temperature": 25,
+        "speed": 59
+    },
+    {
+        "VehicleID": "VH0191",
+        "latitude": -9.801433,
+        "longitude": -174.146294,
+        "City": "Toronto",
+        "temperature": 17,
+        "speed": 48
+    },
+    {
+        "VehicleID": "VH0192",
+        "latitude": -13.535283,
+        "longitude": 175.478696,
+        "City": "Toronto",
+        "temperature": 12,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0193",
+        "latitude": 25.575317,
+        "longitude": -168.399899,
+        "City": "Paris",
+        "temperature": -3,
+        "speed": 9
+    },
+    {
+        "VehicleID": "VH0194",
+        "latitude": -69.444994,
+        "longitude": 141.772515,
+        "City": "Tokyo",
+        "temperature": 24,
+        "speed": 165
+    },
+    {
+        "VehicleID": "VH0195",
+        "latitude": -23.450261,
+        "longitude": 81.554251,
+        "City": "London",
+        "temperature": 30,
+        "speed": 113
+    },
+    {
+        "VehicleID": "VH0196",
+        "latitude": -10.34229,
+        "longitude": -76.313764,
+        "City": "Toronto",
+        "temperature": 19,
+        "speed": 65
+    },
+    {
+        "VehicleID": "VH0197",
+        "latitude": 68.638659,
+        "longitude": 158.533689,
+        "City": "Tokyo",
+        "temperature": 17,
+        "speed": 97
+    },
+    {
+        "VehicleID": "VH0198",
+        "latitude": 51.401008,
+        "longitude": 171.143222,
+        "City": "Rio",
+        "temperature": 5,
+        "speed": 62
+    },
+    {
+        "VehicleID": "VH0199",
+        "latitude": 79.57707,
+        "longitude": -51.979114,
+        "City": "London",
+        "temperature": 35,
+        "speed": 101
+    },
+    {
+        "VehicleID": "VH0200",
+        "latitude": -32.233835,
+        "longitude": 92.661989,
+        "City": "New York",
+        "temperature": 16,
+        "speed": 164
+    },
+    {
+        "VehicleID": "VH0201",
+        "latitude": 57.104426,
+        "longitude": -149.8322,
+        "City": "Mumbai",
+        "temperature": 30,
+        "speed": 144
+    },
+    {
+        "VehicleID": "VH0202",
+        "latitude": -68.919512,
+        "longitude": 4.033896,
+        "City": "Los Angeles",
+        "temperature": 16,
+        "speed": 56
+    },
+    {
+        "VehicleID": "VH0203",
+        "latitude": 52.506883,
+        "longitude": 46.467485,
+        "City": "Toronto",
+        "temperature": 9,
+        "speed": 116
+    },
+    {
+        "VehicleID": "VH0204",
+        "latitude": -84.802864,
+        "longitude": 108.265609,
+        "City": "Rio",
+        "temperature": 5,
+        "speed": 186
+    },
+    {
+        "VehicleID": "VH0205",
+        "latitude": 12.080786,
+        "longitude": 128.160504,
+        "City": "Rio",
+        "temperature": 21,
+        "speed": 185
+    },
+    {
+        "VehicleID": "VH0206",
+        "latitude": 45.69708,
+        "longitude": 0.955032,
+        "City": "Rio",
+        "temperature": 9,
+        "speed": 200
+    },
+    {
+        "VehicleID": "VH0207",
+        "latitude": 19.445372,
+        "longitude": -60.343044,
+        "City": "Mumbai",
+        "temperature": 29,
+        "speed": 172
+    },
+    {
+        "VehicleID": "VH0208",
+        "latitude": -46.259234,
+        "longitude": 172.226213,
+        "City": "Rio",
+        "temperature": 21,
+        "speed": 151
+    },
+    {
+        "VehicleID": "VH0209",
+        "latitude": 38.24326,
+        "longitude": -22.253141,
+        "City": "Rio",
+        "temperature": 40,
+        "speed": 99
+    },
+    {
+        "VehicleID": "VH0210",
+        "latitude": -46.417638,
+        "longitude": 162.963704,
+        "City": "Rio",
+        "temperature": 23,
+        "speed": 40
+    },
+    {
+        "VehicleID": "VH0211",
+        "latitude": 48.925818,
+        "longitude": 85.877523,
+        "City": "Los Angeles",
+        "temperature": 9,
+        "speed": 154
+    },
+    {
+        "VehicleID": "VH0212",
+        "latitude": -83.651443,
+        "longitude": -90.669328,
+        "City": "Los Angeles",
+        "temperature": 25,
+        "speed": 41
+    },
+    {
+        "VehicleID": "VH0213",
+        "latitude": -57.539485,
+        "longitude": -142.56942,
+        "City": "Tokyo",
+        "temperature": 33,
+        "speed": 73
+    },
+    {
+        "VehicleID": "VH0214",
+        "latitude": 51.916505,
+        "longitude": 160.063826,
+        "City": "Mumbai",
+        "temperature": 0,
+        "speed": 166
+    },
+    {
+        "VehicleID": "VH0215",
+        "latitude": 74.556747,
+        "longitude": -78.033555,
+        "City": "New York",
+        "temperature": 20,
+        "speed": 88
+    },
+    {
+        "VehicleID": "VH0216",
+        "latitude": -56.069695,
+        "longitude": -27.514279,
+        "City": "Tokyo",
+        "temperature": 43,
+        "speed": 82
+    },
+    {
+        "VehicleID": "VH0217",
+        "latitude": -6.785121,
+        "longitude": 101.251977,
+        "City": "Toronto",
+        "temperature": -7,
+        "speed": 15
+    },
+    {
+        "VehicleID": "VH0218",
+        "latitude": -27.094335,
+        "longitude": -7.567928,
+        "City": "New York",
+        "temperature": 42,
+        "speed": 80
+    },
+    {
+        "VehicleID": "VH0219",
+        "latitude": -78.318863,
+        "longitude": -20.866758,
+        "City": "Paris",
+        "temperature": -6,
+        "speed": 82
+    },
+    {
+        "VehicleID": "VH0220",
+        "latitude": -63.720827,
+        "longitude": 73.952128,
+        "City": "Toronto",
+        "temperature": 27,
+        "speed": 169
+    },
+    {
+        "VehicleID": "VH0221",
+        "latitude": -75.096043,
+        "longitude": 89.065519,
+        "City": "Tokyo",
+        "temperature": 31,
+        "speed": 11
+    },
+    {
+        "VehicleID": "VH0222",
+        "latitude": 35.448216,
+        "longitude": -95.965792,
+        "City": "Tokyo",
+        "temperature": 45,
+        "speed": 29
+    },
+    {
+        "VehicleID": "VH0223",
+        "latitude": -28.984649,
+        "longitude": -154.75804,
+        "City": "Mumbai",
+        "temperature": 24,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0224",
+        "latitude": 26.561417,
+        "longitude": -65.741231,
+        "City": "Berlin",
+        "temperature": 16,
+        "speed": 69
+    },
+    {
+        "VehicleID": "VH0225",
+        "latitude": 58.741993,
+        "longitude": 31.795753,
+        "City": "Mumbai",
+        "temperature": 1,
+        "speed": 196
+    },
+    {
+        "VehicleID": "VH0226",
+        "latitude": 42.29936,
+        "longitude": 66.770692,
+        "City": "Paris",
+        "temperature": 28,
+        "speed": 175
+    },
+    {
+        "VehicleID": "VH0227",
+        "latitude": 26.101268,
+        "longitude": -42.350445,
+        "City": "Paris",
+        "temperature": 12,
+        "speed": 80
+    },
+    {
+        "VehicleID": "VH0228",
+        "latitude": 13.884659,
+        "longitude": -109.0965,
+        "City": "New York",
+        "temperature": 7,
+        "speed": 69
+    },
+    {
+        "VehicleID": "VH0229",
+        "latitude": -21.863722,
+        "longitude": -121.166405,
+        "City": "Toronto",
+        "temperature": 21,
+        "speed": 30
+    },
+    {
+        "VehicleID": "VH0230",
+        "latitude": -48.123934,
+        "longitude": 90.871274,
+        "City": "Berlin",
+        "temperature": 40,
+        "speed": 8
+    },
+    {
+        "VehicleID": "VH0231",
+        "latitude": -53.380347,
+        "longitude": -32.47218,
+        "City": "Sydney",
+        "temperature": 26,
+        "speed": 186
+    },
+    {
+        "VehicleID": "VH0232",
+        "latitude": 87.614955,
+        "longitude": -55.799668,
+        "City": "Sydney",
+        "temperature": 5,
+        "speed": 164
+    },
+    {
+        "VehicleID": "VH0233",
+        "latitude": -44.518844,
+        "longitude": -106.129597,
+        "City": "Sydney",
+        "temperature": 27,
+        "speed": 50
+    },
+    {
+        "VehicleID": "VH0234",
+        "latitude": -7.099884,
+        "longitude": 157.855075,
+        "City": "Toronto",
+        "temperature": 9,
+        "speed": 171
+    },
+    {
+        "VehicleID": "VH0235",
+        "latitude": -63.95768,
+        "longitude": 142.530887,
+        "City": "Los Angeles",
+        "temperature": 15,
+        "speed": 19
+    },
+    {
+        "VehicleID": "VH0236",
+        "latitude": 5.629556,
+        "longitude": 0.589671,
+        "City": "Berlin",
+        "temperature": 27,
+        "speed": 43
+    },
+    {
+        "VehicleID": "VH0237",
+        "latitude": 57.374068,
+        "longitude": 17.671399,
+        "City": "Berlin",
+        "temperature": 28,
+        "speed": 151
+    },
+    {
+        "VehicleID": "VH0238",
+        "latitude": -42.13774,
+        "longitude": -2.047572,
+        "City": "Rio",
+        "temperature": -10,
+        "speed": 29
+    },
+    {
+        "VehicleID": "VH0239",
+        "latitude": -35.956241,
+        "longitude": 63.201772,
+        "City": "Sydney",
+        "temperature": 0,
+        "speed": 180
+    },
+    {
+        "VehicleID": "VH0240",
+        "latitude": 0.706024,
+        "longitude": -103.576873,
+        "City": "Mumbai",
+        "temperature": 30,
+        "speed": 128
+    },
+    {
+        "VehicleID": "VH0241",
+        "latitude": 88.597379,
+        "longitude": -85.981357,
+        "City": "Rio",
+        "temperature": 20,
+        "speed": 171
+    },
+    {
+        "VehicleID": "VH0242",
+        "latitude": 39.965073,
+        "longitude": -123.728184,
+        "City": "Mumbai",
+        "temperature": 30,
+        "speed": 185
+    },
+    {
+        "VehicleID": "VH0243",
+        "latitude": 64.06258,
+        "longitude": 145.103227,
+        "City": "New York",
+        "temperature": 11,
+        "speed": 17
+    },
+    {
+        "VehicleID": "VH0244",
+        "latitude": 49.5379,
+        "longitude": -177.179031,
+        "City": "London",
+        "temperature": 4,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0245",
+        "latitude": -78.138955,
+        "longitude": 81.482821,
+        "City": "Tokyo",
+        "temperature": 17,
+        "speed": 184
+    },
+    {
+        "VehicleID": "VH0246",
+        "latitude": 78.239333,
+        "longitude": -14.247262,
+        "City": "Los Angeles",
+        "temperature": 3,
+        "speed": 182
+    },
+    {
+        "VehicleID": "VH0247",
+        "latitude": -66.921858,
+        "longitude": 142.783828,
+        "City": "Los Angeles",
+        "temperature": 16,
+        "speed": 47
+    },
+    {
+        "VehicleID": "VH0248",
+        "latitude": -12.62547,
+        "longitude": -13.41113,
+        "City": "Mumbai",
+        "temperature": 2,
+        "speed": 84
+    },
+    {
+        "VehicleID": "VH0249",
+        "latitude": -56.387104,
+        "longitude": 174.059802,
+        "City": "Sydney",
+        "temperature": 21,
+        "speed": 199
+    },
+    {
+        "VehicleID": "VH0250",
+        "latitude": -40.907658,
+        "longitude": -4.962568,
+        "City": "Toronto",
+        "temperature": -1,
+        "speed": 91
+    },
+    {
+        "VehicleID": "VH0251",
+        "latitude": 65.971195,
+        "longitude": -51.446603,
+        "City": "London",
+        "temperature": -6,
+        "speed": 51
+    },
+    {
+        "VehicleID": "VH0252",
+        "latitude": 5.063209,
+        "longitude": -36.860389,
+        "City": "London",
+        "temperature": 40,
+        "speed": 24
+    },
+    {
+        "VehicleID": "VH0253",
+        "latitude": -73.951277,
+        "longitude": -153.350196,
+        "City": "Mumbai",
+        "temperature": 26,
+        "speed": 168
+    },
+    {
+        "VehicleID": "VH0254",
+        "latitude": -60.786971,
+        "longitude": 1.434465,
+        "City": "London",
+        "temperature": -2,
+        "speed": 24
+    },
+    {
+        "VehicleID": "VH0255",
+        "latitude": -6.362877,
+        "longitude": -132.603345,
+        "City": "Toronto",
+        "temperature": 4,
+        "speed": 128
+    },
+    {
+        "VehicleID": "VH0256",
+        "latitude": 42.238551,
+        "longitude": -48.316698,
+        "City": "Tokyo",
+        "temperature": 37,
+        "speed": 178
+    },
+    {
+        "VehicleID": "VH0257",
+        "latitude": 14.244452,
+        "longitude": -94.397872,
+        "City": "Tokyo",
+        "temperature": 0,
+        "speed": 77
+    },
+    {
+        "VehicleID": "VH0258",
+        "latitude": -0.7418,
+        "longitude": 95.345689,
+        "City": "Los Angeles",
+        "temperature": 17,
+        "speed": 129
+    },
+    {
+        "VehicleID": "VH0259",
+        "latitude": 32.602694,
+        "longitude": 118.366292,
+        "City": "Mumbai",
+        "temperature": 3,
+        "speed": 158
+    },
+    {
+        "VehicleID": "VH0260",
+        "latitude": 28.883498,
+        "longitude": -92.913817,
+        "City": "Paris",
+        "temperature": 24,
+        "speed": 200
+    },
+    {
+        "VehicleID": "VH0261",
+        "latitude": -61.070265,
+        "longitude": -158.278945,
+        "City": "Paris",
+        "temperature": -7,
+        "speed": 105
+    },
+    {
+        "VehicleID": "VH0262",
+        "latitude": 15.409464,
+        "longitude": 103.467302,
+        "City": "Sydney",
+        "temperature": 26,
+        "speed": 132
+    },
+    {
+        "VehicleID": "VH0263",
+        "latitude": 68.66156,
+        "longitude": 63.994454,
+        "City": "Paris",
+        "temperature": 9,
+        "speed": 58
+    },
+    {
+        "VehicleID": "VH0264",
+        "latitude": 27.005186,
+        "longitude": 75.635794,
+        "City": "Tokyo",
+        "temperature": 32,
+        "speed": 106
+    },
+    {
+        "VehicleID": "VH0265",
+        "latitude": -88.288973,
+        "longitude": 112.927892,
+        "City": "Paris",
+        "temperature": 31,
+        "speed": 48
+    },
+    {
+        "VehicleID": "VH0266",
+        "latitude": 10.201105,
+        "longitude": 176.109426,
+        "City": "Mumbai",
+        "temperature": 22,
+        "speed": 187
+    },
+    {
+        "VehicleID": "VH0267",
+        "latitude": 30.090624,
+        "longitude": -15.474585,
+        "City": "Berlin",
+        "temperature": -10,
+        "speed": 2
+    },
+    {
+        "VehicleID": "VH0268",
+        "latitude": -85.769215,
+        "longitude": 35.333695,
+        "City": "Tokyo",
+        "temperature": 0,
+        "speed": 63
+    },
+    {
+        "VehicleID": "VH0269",
+        "latitude": 71.987613,
+        "longitude": -164.911115,
+        "City": "London",
+        "temperature": 39,
+        "speed": 169
+    },
+    {
+        "VehicleID": "VH0270",
+        "latitude": 1.206434,
+        "longitude": -108.921507,
+        "City": "London",
+        "temperature": 0,
+        "speed": 80
+    },
+    {
+        "VehicleID": "VH0271",
+        "latitude": 1.494364,
+        "longitude": -159.887558,
+        "City": "Rio",
+        "temperature": 5,
+        "speed": 59
+    },
+    {
+        "VehicleID": "VH0272",
+        "latitude": 47.336472,
+        "longitude": -132.099131,
+        "City": "Mumbai",
+        "temperature": -1,
+        "speed": 182
+    },
+    {
+        "VehicleID": "VH0273",
+        "latitude": 19.523269,
+        "longitude": -45.388702,
+        "City": "Sydney",
+        "temperature": 36,
+        "speed": 195
+    },
+    {
+        "VehicleID": "VH0274",
+        "latitude": -11.200048,
+        "longitude": -155.508169,
+        "City": "Rio",
+        "temperature": 35,
+        "speed": 130
+    },
+    {
+        "VehicleID": "VH0275",
+        "latitude": 39.474152,
+        "longitude": 82.543181,
+        "City": "Toronto",
+        "temperature": 30,
+        "speed": 94
+    },
+    {
+        "VehicleID": "VH0276",
+        "latitude": 86.793097,
+        "longitude": 36.437252,
+        "City": "London",
+        "temperature": 15,
+        "speed": 111
+    },
+    {
+        "VehicleID": "VH0277",
+        "latitude": 51.442451,
+        "longitude": 149.718285,
+        "City": "Sydney",
+        "temperature": 41,
+        "speed": 181
+    },
+    {
+        "VehicleID": "VH0278",
+        "latitude": 54.685484,
+        "longitude": 25.534169,
+        "City": "New York",
+        "temperature": 6,
+        "speed": 189
+    },
+    {
+        "VehicleID": "VH0279",
+        "latitude": 72.755214,
+        "longitude": -94.840924,
+        "City": "Mumbai",
+        "temperature": 11,
+        "speed": 100
+    },
+    {
+        "VehicleID": "VH0280",
+        "latitude": 73.062271,
+        "longitude": 143.110641,
+        "City": "Paris",
+        "temperature": 37,
+        "speed": 18
+    },
+    {
+        "VehicleID": "VH0281",
+        "latitude": -9.011271,
+        "longitude": -39.481406,
+        "City": "Berlin",
+        "temperature": 29,
+        "speed": 40
+    },
+    {
+        "VehicleID": "VH0282",
+        "latitude": 31.838109,
+        "longitude": 78.822927,
+        "City": "New York",
+        "temperature": 17,
+        "speed": 62
+    },
+    {
+        "VehicleID": "VH0283",
+        "latitude": -39.129605,
+        "longitude": -17.730811,
+        "City": "Mumbai",
+        "temperature": 25,
+        "speed": 9
+    },
+    {
+        "VehicleID": "VH0284",
+        "latitude": 41.135004,
+        "longitude": -162.76429,
+        "City": "London",
+        "temperature": 41,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0285",
+        "latitude": -80.14317,
+        "longitude": 106.003157,
+        "City": "Mumbai",
+        "temperature": 12,
+        "speed": 195
+    },
+    {
+        "VehicleID": "VH0286",
+        "latitude": 55.367183,
+        "longitude": 40.438302,
+        "City": "Sydney",
+        "temperature": -3,
+        "speed": 62
+    },
+    {
+        "VehicleID": "VH0287",
+        "latitude": -25.35417,
+        "longitude": -67.063457,
+        "City": "Berlin",
+        "temperature": 9,
+        "speed": 60
+    },
+    {
+        "VehicleID": "VH0288",
+        "latitude": 66.730635,
+        "longitude": 134.927746,
+        "City": "Mumbai",
+        "temperature": 17,
+        "speed": 196
+    },
+    {
+        "VehicleID": "VH0289",
+        "latitude": 34.74543,
+        "longitude": -96.282427,
+        "City": "Toronto",
+        "temperature": 16,
+        "speed": 143
+    },
+    {
+        "VehicleID": "VH0290",
+        "latitude": 58.27401,
+        "longitude": 79.461099,
+        "City": "New York",
+        "temperature": 2,
+        "speed": 134
+    },
+    {
+        "VehicleID": "VH0291",
+        "latitude": 3.029952,
+        "longitude": -22.411223,
+        "City": "Los Angeles",
+        "temperature": 9,
+        "speed": 119
+    },
+    {
+        "VehicleID": "VH0292",
+        "latitude": 38.6567,
+        "longitude": 120.290398,
+        "City": "Paris",
+        "temperature": 5,
+        "speed": 47
+    },
+    {
+        "VehicleID": "VH0293",
+        "latitude": -72.957514,
+        "longitude": -40.13828,
+        "City": "Berlin",
+        "temperature": 21,
+        "speed": 197
+    },
+    {
+        "VehicleID": "VH0294",
+        "latitude": -4.473101,
+        "longitude": 84.451186,
+        "City": "Sydney",
+        "temperature": 21,
+        "speed": 10
+    },
+    {
+        "VehicleID": "VH0295",
+        "latitude": 57.063964,
+        "longitude": 28.775324,
+        "City": "Paris",
+        "temperature": -8,
+        "speed": 157
+    },
+    {
+        "VehicleID": "VH0296",
+        "latitude": -77.36566,
+        "longitude": 147.346386,
+        "City": "Paris",
+        "temperature": 16,
+        "speed": 164
+    },
+    {
+        "VehicleID": "VH0297",
+        "latitude": -48.143522,
+        "longitude": -88.023153,
+        "City": "Sydney",
+        "temperature": 30,
+        "speed": 148
+    },
+    {
+        "VehicleID": "VH0298",
+        "latitude": 35.342999,
+        "longitude": -81.657911,
+        "City": "Tokyo",
+        "temperature": 9,
+        "speed": 133
+    },
+    {
+        "VehicleID": "VH0299",
+        "latitude": -39.1425,
+        "longitude": -168.746522,
+        "City": "Rio",
+        "temperature": 24,
+        "speed": 32
+    },
+    {
+        "VehicleID": "VH0300",
+        "latitude": 79.64274,
+        "longitude": 92.181348,
+        "City": "Rio",
+        "temperature": 29,
+        "speed": 178
+    },
+    {
+        "VehicleID": "VH0301",
+        "latitude": 55.121896,
+        "longitude": -90.502148,
+        "City": "Berlin",
+        "temperature": 9,
+        "speed": 199
+    },
+    {
+        "VehicleID": "VH0302",
+        "latitude": 74.593499,
+        "longitude": 154.680005,
+        "City": "New York",
+        "temperature": 44,
+        "speed": 186
+    },
+    {
+        "VehicleID": "VH0303",
+        "latitude": -55.403507,
+        "longitude": 61.270185,
+        "City": "London",
+        "temperature": 4,
+        "speed": 153
+    },
+    {
+        "VehicleID": "VH0304",
+        "latitude": 83.386287,
+        "longitude": -177.020932,
+        "City": "Sydney",
+        "temperature": 21,
+        "speed": 94
+    },
+    {
+        "VehicleID": "VH0305",
+        "latitude": 65.040592,
+        "longitude": -103.608147,
+        "City": "Paris",
+        "temperature": 0,
+        "speed": 29
+    },
+    {
+        "VehicleID": "VH0306",
+        "latitude": -37.37236,
+        "longitude": -74.606983,
+        "City": "Rio",
+        "temperature": 18,
+        "speed": 78
+    },
+    {
+        "VehicleID": "VH0307",
+        "latitude": -62.010416,
+        "longitude": 39.372713,
+        "City": "Berlin",
+        "temperature": 6,
+        "speed": 57
+    },
+    {
+        "VehicleID": "VH0308",
+        "latitude": 50.226296,
+        "longitude": 111.854559,
+        "City": "Paris",
+        "temperature": 39,
+        "speed": 114
+    },
+    {
+        "VehicleID": "VH0309",
+        "latitude": 57.699019,
+        "longitude": -10.439287,
+        "City": "London",
+        "temperature": 6,
+        "speed": 96
+    },
+    {
+        "VehicleID": "VH0310",
+        "latitude": 34.090324,
+        "longitude": -148.883005,
+        "City": "Los Angeles",
+        "temperature": 40,
+        "speed": 100
+    },
+    {
+        "VehicleID": "VH0311",
+        "latitude": -61.420153,
+        "longitude": 135.944883,
+        "City": "Tokyo",
+        "temperature": 33,
+        "speed": 66
+    },
+    {
+        "VehicleID": "VH0312",
+        "latitude": -45.459149,
+        "longitude": -31.10594,
+        "City": "London",
+        "temperature": 27,
+        "speed": 19
+    },
+    {
+        "VehicleID": "VH0313",
+        "latitude": 28.959563,
+        "longitude": 90.147355,
+        "City": "Tokyo",
+        "temperature": 6,
+        "speed": 113
+    },
+    {
+        "VehicleID": "VH0314",
+        "latitude": 75.473255,
+        "longitude": -79.996891,
+        "City": "Rio",
+        "temperature": 36,
+        "speed": 134
+    },
+    {
+        "VehicleID": "VH0315",
+        "latitude": 25.922126,
+        "longitude": 29.442927,
+        "City": "Berlin",
+        "temperature": 24,
+        "speed": 91
+    },
+    {
+        "VehicleID": "VH0316",
+        "latitude": 11.782224,
+        "longitude": -158.486776,
+        "City": "Mumbai",
+        "temperature": 10,
+        "speed": 145
+    },
+    {
+        "VehicleID": "VH0317",
+        "latitude": 85.956217,
+        "longitude": -91.671002,
+        "City": "Tokyo",
+        "temperature": 39,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0318",
+        "latitude": 34.448985,
+        "longitude": 108.863865,
+        "City": "New York",
+        "temperature": 38,
+        "speed": 153
+    },
+    {
+        "VehicleID": "VH0319",
+        "latitude": -13.307723,
+        "longitude": -22.81873,
+        "City": "Toronto",
+        "temperature": -8,
+        "speed": 69
+    },
+    {
+        "VehicleID": "VH0320",
+        "latitude": 45.356997,
+        "longitude": 53.027752,
+        "City": "London",
+        "temperature": -7,
+        "speed": 177
+    },
+    {
+        "VehicleID": "VH0321",
+        "latitude": 83.026949,
+        "longitude": -175.294922,
+        "City": "London",
+        "temperature": 12,
+        "speed": 133
+    },
+    {
+        "VehicleID": "VH0322",
+        "latitude": -74.707369,
+        "longitude": -67.796604,
+        "City": "Los Angeles",
+        "temperature": -9,
+        "speed": 162
+    },
+    {
+        "VehicleID": "VH0323",
+        "latitude": 48.208378,
+        "longitude": 90.785627,
+        "City": "Tokyo",
+        "temperature": 8,
+        "speed": 131
+    },
+    {
+        "VehicleID": "VH0324",
+        "latitude": 60.281702,
+        "longitude": 36.012945,
+        "City": "Sydney",
+        "temperature": 33,
+        "speed": 28
+    },
+    {
+        "VehicleID": "VH0325",
+        "latitude": -8.533326,
+        "longitude": 170.209675,
+        "City": "Rio",
+        "temperature": 0,
+        "speed": 195
+    },
+    {
+        "VehicleID": "VH0326",
+        "latitude": 26.598078,
+        "longitude": -74.844368,
+        "City": "Berlin",
+        "temperature": -6,
+        "speed": 61
+    },
+    {
+        "VehicleID": "VH0327",
+        "latitude": 55.407481,
+        "longitude": 66.620979,
+        "City": "Paris",
+        "temperature": 2,
+        "speed": 147
+    },
+    {
+        "VehicleID": "VH0328",
+        "latitude": -50.219158,
+        "longitude": 63.808376,
+        "City": "Berlin",
+        "temperature": 42,
+        "speed": 185
+    },
+    {
+        "VehicleID": "VH0329",
+        "latitude": -19.739708,
+        "longitude": -36.940263,
+        "City": "Toronto",
+        "temperature": 41,
+        "speed": 76
+    },
+    {
+        "VehicleID": "VH0330",
+        "latitude": 59.494285,
+        "longitude": -169.662961,
+        "City": "Paris",
+        "temperature": 29,
+        "speed": 82
+    },
+    {
+        "VehicleID": "VH0331",
+        "latitude": -31.739277,
+        "longitude": -148.287958,
+        "City": "Los Angeles",
+        "temperature": 23,
+        "speed": 141
+    },
+    {
+        "VehicleID": "VH0332",
+        "latitude": -27.473575,
+        "longitude": -85.356167,
+        "City": "Paris",
+        "temperature": 39,
+        "speed": 71
+    },
+    {
+        "VehicleID": "VH0333",
+        "latitude": -47.161988,
+        "longitude": 64.534715,
+        "City": "Mumbai",
+        "temperature": -6,
+        "speed": 127
+    },
+    {
+        "VehicleID": "VH0334",
+        "latitude": 23.034348,
+        "longitude": -173.594679,
+        "City": "Mumbai",
+        "temperature": 8,
+        "speed": 197
+    },
+    {
+        "VehicleID": "VH0335",
+        "latitude": 44.496236,
+        "longitude": -42.319967,
+        "City": "London",
+        "temperature": 24,
+        "speed": 81
+    },
+    {
+        "VehicleID": "VH0336",
+        "latitude": 3.641029,
+        "longitude": -69.320327,
+        "City": "Tokyo",
+        "temperature": 6,
+        "speed": 78
+    },
+    {
+        "VehicleID": "VH0337",
+        "latitude": 44.587301,
+        "longitude": -23.147899,
+        "City": "New York",
+        "temperature": 21,
+        "speed": 0
+    },
+    {
+        "VehicleID": "VH0338",
+        "latitude": -0.557769,
+        "longitude": -38.865127,
+        "City": "Toronto",
+        "temperature": 10,
+        "speed": 110
+    },
+    {
+        "VehicleID": "VH0339",
+        "latitude": 60.02713,
+        "longitude": -162.274507,
+        "City": "Tokyo",
+        "temperature": 34,
+        "speed": 130
+    },
+    {
+        "VehicleID": "VH0340",
+        "latitude": -17.682426,
+        "longitude": -18.441216,
+        "City": "Paris",
+        "temperature": 29,
+        "speed": 83
+    },
+    {
+        "VehicleID": "VH0341",
+        "latitude": -89.423901,
+        "longitude": -129.473212,
+        "City": "Toronto",
+        "temperature": 2,
+        "speed": 93
+    },
+    {
+        "VehicleID": "VH0342",
+        "latitude": -35.134014,
+        "longitude": -56.643167,
+        "City": "Berlin",
+        "temperature": 19,
+        "speed": 164
+    },
+    {
+        "VehicleID": "VH0343",
+        "latitude": -16.230649,
+        "longitude": -5.068674,
+        "City": "Rio",
+        "temperature": 32,
+        "speed": 44
+    },
+    {
+        "VehicleID": "VH0344",
+        "latitude": 57.909698,
+        "longitude": -37.462701,
+        "City": "Toronto",
+        "temperature": 12,
+        "speed": 49
+    },
+    {
+        "VehicleID": "VH0345",
+        "latitude": 36.808039,
+        "longitude": 153.727477,
+        "City": "Tokyo",
+        "temperature": 37,
+        "speed": 69
+    },
+    {
+        "VehicleID": "VH0346",
+        "latitude": 48.721545,
+        "longitude": 44.361632,
+        "City": "New York",
+        "temperature": 22,
+        "speed": 96
+    },
+    {
+        "VehicleID": "VH0347",
+        "latitude": 45.144397,
+        "longitude": 101.485861,
+        "City": "New York",
+        "temperature": 27,
+        "speed": 50
+    },
+    {
+        "VehicleID": "VH0348",
+        "latitude": -0.814313,
+        "longitude": -24.9055,
+        "City": "Toronto",
+        "temperature": -1,
+        "speed": 121
+    },
+    {
+        "VehicleID": "VH0349",
+        "latitude": -19.381134,
+        "longitude": 132.257195,
+        "City": "London",
+        "temperature": 25,
+        "speed": 143
+    },
+    {
+        "VehicleID": "VH0350",
+        "latitude": -86.600389,
+        "longitude": 110.740905,
+        "City": "London",
+        "temperature": 26,
+        "speed": 109
+    },
+    {
+        "VehicleID": "VH0351",
+        "latitude": 80.477218,
+        "longitude": 116.189238,
+        "City": "Toronto",
+        "temperature": 37,
+        "speed": 18
+    },
+    {
+        "VehicleID": "VH0352",
+        "latitude": 30.18563,
+        "longitude": 112.164284,
+        "City": "Paris",
+        "temperature": -1,
+        "speed": 0
+    },
+    {
+        "VehicleID": "VH0353",
+        "latitude": 30.23422,
+        "longitude": 91.543285,
+        "City": "Berlin",
+        "temperature": 19,
+        "speed": 120
+    },
+    {
+        "VehicleID": "VH0354",
+        "latitude": -79.704285,
+        "longitude": -22.658628,
+        "City": "London",
+        "temperature": 14,
+        "speed": 184
+    },
+    {
+        "VehicleID": "VH0355",
+        "latitude": -60.964852,
+        "longitude": 134.081813,
+        "City": "Sydney",
+        "temperature": 4,
+        "speed": 74
+    },
+    {
+        "VehicleID": "VH0356",
+        "latitude": -55.013191,
+        "longitude": 100.153735,
+        "City": "Mumbai",
+        "temperature": 23,
+        "speed": 18
+    },
+    {
+        "VehicleID": "VH0357",
+        "latitude": -6.625625,
+        "longitude": 53.411516,
+        "City": "New York",
+        "temperature": 15,
+        "speed": 141
+    },
+    {
+        "VehicleID": "VH0358",
+        "latitude": -75.588321,
+        "longitude": 83.707115,
+        "City": "Toronto",
+        "temperature": 2,
+        "speed": 41
+    },
+    {
+        "VehicleID": "VH0359",
+        "latitude": 24.954351,
+        "longitude": 40.20928,
+        "City": "Sydney",
+        "temperature": -10,
+        "speed": 181
+    },
+    {
+        "VehicleID": "VH0360",
+        "latitude": 7.027807,
+        "longitude": 84.242388,
+        "City": "Mumbai",
+        "temperature": 8,
+        "speed": 24
+    },
+    {
+        "VehicleID": "VH0361",
+        "latitude": -62.668987,
+        "longitude": 76.86554,
+        "City": "Berlin",
+        "temperature": 6,
+        "speed": 33
+    },
+    {
+        "VehicleID": "VH0362",
+        "latitude": -55.514187,
+        "longitude": -8.068236,
+        "City": "Sydney",
+        "temperature": 11,
+        "speed": 111
+    },
+    {
+        "VehicleID": "VH0363",
+        "latitude": 67.113603,
+        "longitude": -166.936771,
+        "City": "Mumbai",
+        "temperature": 42,
+        "speed": 35
+    },
+    {
+        "VehicleID": "VH0364",
+        "latitude": 72.106397,
+        "longitude": -130.519767,
+        "City": "London",
+        "temperature": -7,
+        "speed": 124
+    },
+    {
+        "VehicleID": "VH0365",
+        "latitude": -38.249315,
+        "longitude": -92.893449,
+        "City": "Berlin",
+        "temperature": 2,
+        "speed": 152
+    },
+    {
+        "VehicleID": "VH0366",
+        "latitude": -2.121321,
+        "longitude": -101.85969,
+        "City": "London",
+        "temperature": 6,
+        "speed": 52
+    },
+    {
+        "VehicleID": "VH0367",
+        "latitude": -10.094105,
+        "longitude": -14.223415,
+        "City": "Berlin",
+        "temperature": -2,
+        "speed": 87
+    },
+    {
+        "VehicleID": "VH0368",
+        "latitude": -40.555332,
+        "longitude": -174.457557,
+        "City": "Rio",
+        "temperature": 2,
+        "speed": 154
+    },
+    {
+        "VehicleID": "VH0369",
+        "latitude": -73.580519,
+        "longitude": 57.794392,
+        "City": "Tokyo",
+        "temperature": 22,
+        "speed": 95
+    },
+    {
+        "VehicleID": "VH0370",
+        "latitude": -33.018685,
+        "longitude": 83.957628,
+        "City": "Los Angeles",
+        "temperature": 38,
+        "speed": 57
+    },
+    {
+        "VehicleID": "VH0371",
+        "latitude": 74.77571,
+        "longitude": -3.565961,
+        "City": "Mumbai",
+        "temperature": 14,
+        "speed": 190
+    },
+    {
+        "VehicleID": "VH0372",
+        "latitude": 38.051894,
+        "longitude": -136.767991,
+        "City": "Mumbai",
+        "temperature": 30,
+        "speed": 60
+    },
+    {
+        "VehicleID": "VH0373",
+        "latitude": -28.922731,
+        "longitude": -92.941522,
+        "City": "Los Angeles",
+        "temperature": 7,
+        "speed": 83
+    },
+    {
+        "VehicleID": "VH0374",
+        "latitude": 63.712097,
+        "longitude": 126.769256,
+        "City": "Los Angeles",
+        "temperature": 43,
+        "speed": 13
+    },
+    {
+        "VehicleID": "VH0375",
+        "latitude": 79.010373,
+        "longitude": 51.059995,
+        "City": "Toronto",
+        "temperature": 22,
+        "speed": 134
+    },
+    {
+        "VehicleID": "VH0376",
+        "latitude": 67.795162,
+        "longitude": -8.252944,
+        "City": "Mumbai",
+        "temperature": 13,
+        "speed": 6
+    },
+    {
+        "VehicleID": "VH0377",
+        "latitude": 76.171493,
+        "longitude": 156.856405,
+        "City": "Rio",
+        "temperature": 24,
+        "speed": 109
+    },
+    {
+        "VehicleID": "VH0378",
+        "latitude": 62.754286,
+        "longitude": 169.247458,
+        "City": "Los Angeles",
+        "temperature": 41,
+        "speed": 103
+    },
+    {
+        "VehicleID": "VH0379",
+        "latitude": 53.23948,
+        "longitude": 65.433584,
+        "City": "Berlin",
+        "temperature": 3,
+        "speed": 5
+    },
+    {
+        "VehicleID": "VH0380",
+        "latitude": 41.594223,
+        "longitude": -25.124448,
+        "City": "Berlin",
+        "temperature": 10,
+        "speed": 156
+    },
+    {
+        "VehicleID": "VH0381",
+        "latitude": -17.181913,
+        "longitude": -148.242117,
+        "City": "Rio",
+        "temperature": 40,
+        "speed": 111
+    },
+    {
+        "VehicleID": "VH0382",
+        "latitude": 0.251598,
+        "longitude": -178.049936,
+        "City": "Mumbai",
+        "temperature": 32,
+        "speed": 80
+    },
+    {
+        "VehicleID": "VH0383",
+        "latitude": 47.668897,
+        "longitude": -2.736455,
+        "City": "New York",
+        "temperature": 43,
+        "speed": 61
+    },
+    {
+        "VehicleID": "VH0384",
+        "latitude": 36.814604,
+        "longitude": -38.379766,
+        "City": "Los Angeles",
+        "temperature": 9,
+        "speed": 107
+    },
+    {
+        "VehicleID": "VH0385",
+        "latitude": -1.405125,
+        "longitude": 126.190169,
+        "City": "New York",
+        "temperature": 43,
+        "speed": 121
+    },
+    {
+        "VehicleID": "VH0386",
+        "latitude": 5.511475,
+        "longitude": -24.871077,
+        "City": "Mumbai",
+        "temperature": 45,
+        "speed": 80
+    },
+    {
+        "VehicleID": "VH0387",
+        "latitude": 55.427991,
+        "longitude": -160.86581,
+        "City": "New York",
+        "temperature": 30,
+        "speed": 132
+    },
+    {
+        "VehicleID": "VH0388",
+        "latitude": 83.623344,
+        "longitude": 72.703411,
+        "City": "New York",
+        "temperature": 30,
+        "speed": 82
+    },
+    {
+        "VehicleID": "VH0389",
+        "latitude": -60.396915,
+        "longitude": -96.420614,
+        "City": "Sydney",
+        "temperature": -4,
+        "speed": 143
+    },
+    {
+        "VehicleID": "VH0390",
+        "latitude": -10.478688,
+        "longitude": 114.845571,
+        "City": "Mumbai",
+        "temperature": -2,
+        "speed": 125
+    },
+    {
+        "VehicleID": "VH0391",
+        "latitude": 50.081859,
+        "longitude": 156.711636,
+        "City": "Rio",
+        "temperature": 1,
+        "speed": 92
+    },
+    {
+        "VehicleID": "VH0392",
+        "latitude": -16.721969,
+        "longitude": -12.113838,
+        "City": "Sydney",
+        "temperature": -6,
+        "speed": 99
+    },
+    {
+        "VehicleID": "VH0393",
+        "latitude": 40.947608,
+        "longitude": 10.793056,
+        "City": "Mumbai",
+        "temperature": 36,
+        "speed": 35
+    },
+    {
+        "VehicleID": "VH0394",
+        "latitude": -81.845434,
+        "longitude": 85.472415,
+        "City": "Toronto",
+        "temperature": -2,
+        "speed": 113
+    },
+    {
+        "VehicleID": "VH0395",
+        "latitude": -27.734902,
+        "longitude": 7.270353,
+        "City": "Rio",
+        "temperature": 45,
+        "speed": 41
+    },
+    {
+        "VehicleID": "VH0396",
+        "latitude": 1.850154,
+        "longitude": 98.999255,
+        "City": "Mumbai",
+        "temperature": 45,
+        "speed": 192
+    },
+    {
+        "VehicleID": "VH0397",
+        "latitude": -45.704137,
+        "longitude": -161.9732,
+        "City": "Sydney",
+        "temperature": 5,
+        "speed": 81
+    },
+    {
+        "VehicleID": "VH0398",
+        "latitude": 80.926052,
+        "longitude": 126.893218,
+        "City": "Rio",
+        "temperature": -3,
+        "speed": 27
+    },
+    {
+        "VehicleID": "VH0399",
+        "latitude": 85.00863,
+        "longitude": 45.361779,
+        "City": "Tokyo",
+        "temperature": 1,
+        "speed": 7
+    },
+    {
+        "VehicleID": "VH0400",
+        "latitude": 85.351007,
+        "longitude": -116.451614,
+        "City": "Tokyo",
+        "temperature": -3,
+        "speed": 117
+    },
+    {
+        "VehicleID": "VH0401",
+        "latitude": -55.838154,
+        "longitude": 87.643248,
+        "City": "Rio",
+        "temperature": -8,
+        "speed": 77
+    },
+    {
+        "VehicleID": "VH0402",
+        "latitude": 85.322108,
+        "longitude": -112.81647,
+        "City": "Mumbai",
+        "temperature": 21,
+        "speed": 147
+    },
+    {
+        "VehicleID": "VH0403",
+        "latitude": -61.274674,
+        "longitude": 144.927923,
+        "City": "Paris",
+        "temperature": 40,
+        "speed": 56
+    },
+    {
+        "VehicleID": "VH0404",
+        "latitude": 30.293385,
+        "longitude": -112.253842,
+        "City": "Paris",
+        "temperature": 9,
+        "speed": 190
+    },
+    {
+        "VehicleID": "VH0405",
+        "latitude": -36.416381,
+        "longitude": 100.299381,
+        "City": "Berlin",
+        "temperature": 3,
+        "speed": 199
+    },
+    {
+        "VehicleID": "VH0406",
+        "latitude": 58.731401,
+        "longitude": 115.469042,
+        "City": "Tokyo",
+        "temperature": 26,
+        "speed": 128
+    },
+    {
+        "VehicleID": "VH0407",
+        "latitude": -28.193015,
+        "longitude": 25.670994,
+        "City": "Paris",
+        "temperature": 42,
+        "speed": 169
+    },
+    {
+        "VehicleID": "VH0408",
+        "latitude": 56.912557,
+        "longitude": -168.901135,
+        "City": "Tokyo",
+        "temperature": 38,
+        "speed": 84
+    },
+    {
+        "VehicleID": "VH0409",
+        "latitude": -81.780473,
+        "longitude": 130.299555,
+        "City": "Los Angeles",
+        "temperature": 4,
+        "speed": 64
+    },
+    {
+        "VehicleID": "VH0410",
+        "latitude": -0.165065,
+        "longitude": -174.025624,
+        "City": "Rio",
+        "temperature": 40,
+        "speed": 53
+    },
+    {
+        "VehicleID": "VH0411",
+        "latitude": 66.64938,
+        "longitude": -62.052857,
+        "City": "New York",
+        "temperature": -4,
+        "speed": 66
+    },
+    {
+        "VehicleID": "VH0412",
+        "latitude": -4.196042,
+        "longitude": 177.56975,
+        "City": "Sydney",
+        "temperature": 21,
+        "speed": 66
+    },
+    {
+        "VehicleID": "VH0413",
+        "latitude": 74.133455,
+        "longitude": -100.884631,
+        "City": "Toronto",
+        "temperature": 10,
+        "speed": 143
+    },
+    {
+        "VehicleID": "VH0414",
+        "latitude": -14.96902,
+        "longitude": -46.887636,
+        "City": "Tokyo",
+        "temperature": -4,
+        "speed": 195
+    },
+    {
+        "VehicleID": "VH0415",
+        "latitude": 2.691858,
+        "longitude": 64.606046,
+        "City": "Toronto",
+        "temperature": 36,
+        "speed": 183
+    },
+    {
+        "VehicleID": "VH0416",
+        "latitude": -6.975301,
+        "longitude": -77.143938,
+        "City": "New York",
+        "temperature": -9,
+        "speed": 45
+    },
+    {
+        "VehicleID": "VH0417",
+        "latitude": -84.831939,
+        "longitude": 28.881129,
+        "City": "Rio",
+        "temperature": 35,
+        "speed": 116
+    },
+    {
+        "VehicleID": "VH0418",
+        "latitude": 19.039532,
+        "longitude": -115.71784,
+        "City": "Toronto",
+        "temperature": 0,
+        "speed": 89
+    },
+    {
+        "VehicleID": "VH0419",
+        "latitude": -39.384429,
+        "longitude": 105.371074,
+        "City": "London",
+        "temperature": 23,
+        "speed": 18
+    },
+    {
+        "VehicleID": "VH0420",
+        "latitude": -81.220423,
+        "longitude": -62.92644,
+        "City": "London",
+        "temperature": 11,
+        "speed": 101
+    },
+    {
+        "VehicleID": "VH0421",
+        "latitude": 48.843052,
+        "longitude": -166.571008,
+        "City": "New York",
+        "temperature": 20,
+        "speed": 93
+    },
+    {
+        "VehicleID": "VH0422",
+        "latitude": -89.439796,
+        "longitude": 101.702673,
+        "City": "Rio",
+        "temperature": -10,
+        "speed": 1
+    },
+    {
+        "VehicleID": "VH0423",
+        "latitude": 38.910693,
+        "longitude": -20.150588,
+        "City": "Rio",
+        "temperature": 13,
+        "speed": 183
+    },
+    {
+        "VehicleID": "VH0424",
+        "latitude": 74.531934,
+        "longitude": 126.580967,
+        "City": "London",
+        "temperature": 13,
+        "speed": 177
+    },
+    {
+        "VehicleID": "VH0425",
+        "latitude": -33.566397,
+        "longitude": 146.452701,
+        "City": "Paris",
+        "temperature": 34,
+        "speed": 173
+    },
+    {
+        "VehicleID": "VH0426",
+        "latitude": -87.740283,
+        "longitude": 5.225162,
+        "City": "Paris",
+        "temperature": 32,
+        "speed": 192
+    },
+    {
+        "VehicleID": "VH0427",
+        "latitude": 81.040097,
+        "longitude": 44.78338,
+        "City": "Berlin",
+        "temperature": 27,
+        "speed": 187
+    },
+    {
+        "VehicleID": "VH0428",
+        "latitude": -22.955287,
+        "longitude": -98.778777,
+        "City": "London",
+        "temperature": 25,
+        "speed": 18
+    },
+    {
+        "VehicleID": "VH0429",
+        "latitude": 20.275799,
+        "longitude": 128.129359,
+        "City": "Paris",
+        "temperature": -6,
+        "speed": 16
+    },
+    {
+        "VehicleID": "VH0430",
+        "latitude": 66.855639,
+        "longitude": 79.247171,
+        "City": "Rio",
+        "temperature": 7,
+        "speed": 185
+    },
+    {
+        "VehicleID": "VH0431",
+        "latitude": 63.902306,
+        "longitude": -122.091775,
+        "City": "Berlin",
+        "temperature": 29,
+        "speed": 43
+    },
+    {
+        "VehicleID": "VH0432",
+        "latitude": -20.968044,
+        "longitude": 147.67384,
+        "City": "Mumbai",
+        "temperature": 10,
+        "speed": 157
+    },
+    {
+        "VehicleID": "VH0433",
+        "latitude": 2.096348,
+        "longitude": -42.807801,
+        "City": "London",
+        "temperature": 2,
+        "speed": 33
+    },
+    {
+        "VehicleID": "VH0434",
+        "latitude": 30.959208,
+        "longitude": 113.309849,
+        "City": "Paris",
+        "temperature": 38,
+        "speed": 64
+    },
+    {
+        "VehicleID": "VH0435",
+        "latitude": -50.911519,
+        "longitude": -82.94778,
+        "City": "New York",
+        "temperature": 14,
+        "speed": 177
+    },
+    {
+        "VehicleID": "VH0436",
+        "latitude": 35.347439,
+        "longitude": -136.564098,
+        "City": "Berlin",
+        "temperature": 24,
+        "speed": 133
+    },
+    {
+        "VehicleID": "VH0437",
+        "latitude": 89.901852,
+        "longitude": -70.390119,
+        "City": "Rio",
+        "temperature": 18,
+        "speed": 158
+    },
+    {
+        "VehicleID": "VH0438",
+        "latitude": -25.629587,
+        "longitude": 174.008804,
+        "City": "Tokyo",
+        "temperature": 39,
+        "speed": 78
+    },
+    {
+        "VehicleID": "VH0439",
+        "latitude": 63.349378,
+        "longitude": 112.667368,
+        "City": "Paris",
+        "temperature": 20,
+        "speed": 101
+    },
+    {
+        "VehicleID": "VH0440",
+        "latitude": -27.065338,
+        "longitude": 76.18252,
+        "City": "Los Angeles",
+        "temperature": 40,
+        "speed": 64
+    },
+    {
+        "VehicleID": "VH0441",
+        "latitude": 32.911861,
+        "longitude": 175.933273,
+        "City": "Los Angeles",
+        "temperature": 31,
+        "speed": 8
+    },
+    {
+        "VehicleID": "VH0442",
+        "latitude": -74.742887,
+        "longitude": -47.350397,
+        "City": "Paris",
+        "temperature": -3,
+        "speed": 85
+    },
+    {
+        "VehicleID": "VH0443",
+        "latitude": -9.11297,
+        "longitude": -114.813272,
+        "City": "Los Angeles",
+        "temperature": 2,
+        "speed": 123
+    },
+    {
+        "VehicleID": "VH0444",
+        "latitude": 70.411571,
+        "longitude": -157.788522,
+        "City": "London",
+        "temperature": 35,
+        "speed": 164
+    },
+    {
+        "VehicleID": "VH0445",
+        "latitude": 24.440619,
+        "longitude": -170.962163,
+        "City": "London",
+        "temperature": 6,
+        "speed": 136
+    },
+    {
+        "VehicleID": "VH0446",
+        "latitude": 9.013373,
+        "longitude": -111.069043,
+        "City": "Toronto",
+        "temperature": 30,
+        "speed": 152
+    },
+    {
+        "VehicleID": "VH0447",
+        "latitude": -85.656365,
+        "longitude": 97.885104,
+        "City": "London",
+        "temperature": -10,
+        "speed": 113
+    },
+    {
+        "VehicleID": "VH0448",
+        "latitude": 80.321685,
+        "longitude": -90.138776,
+        "City": "Mumbai",
+        "temperature": 21,
+        "speed": 191
+    },
+    {
+        "VehicleID": "VH0449",
+        "latitude": 75.427898,
+        "longitude": -4.708344,
+        "City": "Los Angeles",
+        "temperature": -9,
+        "speed": 28
+    },
+    {
+        "VehicleID": "VH0450",
+        "latitude": -31.406454,
+        "longitude": -28.657171,
+        "City": "New York",
+        "temperature": 24,
+        "speed": 54
+    },
+    {
+        "VehicleID": "VH0451",
+        "latitude": 32.124617,
+        "longitude": -59.180552,
+        "City": "Los Angeles",
+        "temperature": 44,
+        "speed": 136
+    },
+    {
+        "VehicleID": "VH0452",
+        "latitude": 47.015659,
+        "longitude": 140.020859,
+        "City": "New York",
+        "temperature": 37,
+        "speed": 181
+    },
+    {
+        "VehicleID": "VH0453",
+        "latitude": 7.076617,
+        "longitude": 31.478303,
+        "City": "Los Angeles",
+        "temperature": 8,
+        "speed": 134
+    },
+    {
+        "VehicleID": "VH0454",
+        "latitude": -36.768968,
+        "longitude": -135.065662,
+        "City": "Paris",
+        "temperature": 37,
+        "speed": 122
+    },
+    {
+        "VehicleID": "VH0455",
+        "latitude": 17.483171,
+        "longitude": -24.345875,
+        "City": "Toronto",
+        "temperature": -1,
+        "speed": 142
+    },
+    {
+        "VehicleID": "VH0456",
+        "latitude": -74.161372,
+        "longitude": -60.45265,
+        "City": "Tokyo",
+        "temperature": 11,
+        "speed": 23
+    },
+    {
+        "VehicleID": "VH0457",
+        "latitude": -19.209061,
+        "longitude": -20.047819,
+        "City": "Berlin",
+        "temperature": 14,
+        "speed": 61
+    },
+    {
+        "VehicleID": "VH0458",
+        "latitude": 45.681804,
+        "longitude": -14.211165,
+        "City": "Los Angeles",
+        "temperature": 17,
+        "speed": 27
+    },
+    {
+        "VehicleID": "VH0459",
+        "latitude": -80.111559,
+        "longitude": -70.612826,
+        "City": "Berlin",
+        "temperature": 14,
+        "speed": 86
+    },
+    {
+        "VehicleID": "VH0460",
+        "latitude": 83.592112,
+        "longitude": -93.075571,
+        "City": "Mumbai",
+        "temperature": 40,
+        "speed": 115
+    },
+    {
+        "VehicleID": "VH0461",
+        "latitude": -88.208877,
+        "longitude": -43.297371,
+        "City": "Berlin",
+        "temperature": 7,
+        "speed": 49
+    },
+    {
+        "VehicleID": "VH0462",
+        "latitude": -83.495381,
+        "longitude": -22.416062,
+        "City": "Sydney",
+        "temperature": 26,
+        "speed": 144
+    },
+    {
+        "VehicleID": "VH0463",
+        "latitude": 72.255247,
+        "longitude": 61.636407,
+        "City": "Sydney",
+        "temperature": 42,
+        "speed": 34
+    },
+    {
+        "VehicleID": "VH0464",
+        "latitude": -38.151105,
+        "longitude": 46.553727,
+        "City": "Sydney",
+        "temperature": 41,
+        "speed": 86
+    },
+    {
+        "VehicleID": "VH0465",
+        "latitude": -43.894614,
+        "longitude": -15.859641,
+        "City": "Toronto",
+        "temperature": 28,
+        "speed": 116
+    },
+    {
+        "VehicleID": "VH0466",
+        "latitude": 86.278299,
+        "longitude": -71.133261,
+        "City": "Toronto",
+        "temperature": -1,
+        "speed": 171
+    },
+    {
+        "VehicleID": "VH0467",
+        "latitude": 30.718156,
+        "longitude": 95.117882,
+        "City": "Tokyo",
+        "temperature": 4,
+        "speed": 100
+    },
+    {
+        "VehicleID": "VH0468",
+        "latitude": 22.528303,
+        "longitude": 59.06296,
+        "City": "Sydney",
+        "temperature": 0,
+        "speed": 100
+    },
+    {
+        "VehicleID": "VH0469",
+        "latitude": 61.203928,
+        "longitude": 105.8089,
+        "City": "New York",
+        "temperature": 38,
+        "speed": 148
+    },
+    {
+        "VehicleID": "VH0470",
+        "latitude": 17.680904,
+        "longitude": 51.447762,
+        "City": "New York",
+        "temperature": -7,
+        "speed": 24
+    },
+    {
+        "VehicleID": "VH0471",
+        "latitude": 31.211083,
+        "longitude": -8.975399,
+        "City": "London",
+        "temperature": 6,
+        "speed": 93
+    },
+    {
+        "VehicleID": "VH0472",
+        "latitude": 50.56692,
+        "longitude": 18.089775,
+        "City": "Toronto",
+        "temperature": 22,
+        "speed": 50
+    },
+    {
+        "VehicleID": "VH0473",
+        "latitude": 27.469366,
+        "longitude": -63.492972,
+        "City": "Mumbai",
+        "temperature": 21,
+        "speed": 42
+    },
+    {
+        "VehicleID": "VH0474",
+        "latitude": 16.949688,
+        "longitude": -163.815934,
+        "City": "Toronto",
+        "temperature": 9,
+        "speed": 65
+    },
+    {
+        "VehicleID": "VH0475",
+        "latitude": -16.673726,
+        "longitude": -33.164476,
+        "City": "Mumbai",
+        "temperature": 34,
+        "speed": 43
+    },
+    {
+        "VehicleID": "VH0476",
+        "latitude": 23.214169,
+        "longitude": -16.940937,
+        "City": "New York",
+        "temperature": -5,
+        "speed": 44
+    },
+    {
+        "VehicleID": "VH0477",
+        "latitude": 9.101014,
+        "longitude": -102.530072,
+        "City": "Sydney",
+        "temperature": 40,
+        "speed": 113
+    },
+    {
+        "VehicleID": "VH0478",
+        "latitude": 1.151008,
+        "longitude": -40.823969,
+        "City": "Paris",
+        "temperature": 37,
+        "speed": 141
+    },
+    {
+        "VehicleID": "VH0479",
+        "latitude": 3.46953,
+        "longitude": -124.208426,
+        "City": "Tokyo",
+        "temperature": -4,
+        "speed": 88
+    },
+    {
+        "VehicleID": "VH0480",
+        "latitude": 25.046257,
+        "longitude": 136.391015,
+        "City": "Tokyo",
+        "temperature": 21,
+        "speed": 164
+    },
+    {
+        "VehicleID": "VH0481",
+        "latitude": -44.159666,
+        "longitude": 155.556213,
+        "City": "Sydney",
+        "temperature": 43,
+        "speed": 161
+    },
+    {
+        "VehicleID": "VH0482",
+        "latitude": 34.209629,
+        "longitude": 111.161551,
+        "City": "Los Angeles",
+        "temperature": 5,
+        "speed": 139
+    },
+    {
+        "VehicleID": "VH0483",
+        "latitude": 54.708469,
+        "longitude": 38.059995,
+        "City": "London",
+        "temperature": 39,
+        "speed": 54
+    },
+    {
+        "VehicleID": "VH0484",
+        "latitude": 3.695815,
+        "longitude": -82.666228,
+        "City": "Los Angeles",
+        "temperature": 12,
+        "speed": 9
+    },
+    {
+        "VehicleID": "VH0485",
+        "latitude": 0.715581,
+        "longitude": 161.059545,
+        "City": "Toronto",
+        "temperature": 17,
+        "speed": 99
+    },
+    {
+        "VehicleID": "VH0486",
+        "latitude": 30.672099,
+        "longitude": 143.722728,
+        "City": "Paris",
+        "temperature": 30,
+        "speed": 12
+    },
+    {
+        "VehicleID": "VH0487",
+        "latitude": 5.407176,
+        "longitude": -160.867842,
+        "City": "New York",
+        "temperature": 26,
+        "speed": 52
+    },
+    {
+        "VehicleID": "VH0488",
+        "latitude": 54.027614,
+        "longitude": -158.352303,
+        "City": "Sydney",
+        "temperature": 11,
+        "speed": 156
+    },
+    {
+        "VehicleID": "VH0489",
+        "latitude": 36.408632,
+        "longitude": -89.848498,
+        "City": "New York",
+        "temperature": 43,
+        "speed": 122
+    },
+    {
+        "VehicleID": "VH0490",
+        "latitude": -24.369625,
+        "longitude": 40.405842,
+        "City": "Toronto",
+        "temperature": 10,
+        "speed": 113
+    },
+    {
+        "VehicleID": "VH0491",
+        "latitude": -38.815176,
+        "longitude": -113.798868,
+        "City": "Mumbai",
+        "temperature": 40,
+        "speed": 29
+    },
+    {
+        "VehicleID": "VH0492",
+        "latitude": -32.843973,
+        "longitude": 86.389727,
+        "City": "Toronto",
+        "temperature": 38,
+        "speed": 91
+    },
+    {
+        "VehicleID": "VH0493",
+        "latitude": -75.161437,
+        "longitude": 148.938291,
+        "City": "Sydney",
+        "temperature": 8,
+        "speed": 61
+    },
+    {
+        "VehicleID": "VH0494",
+        "latitude": -82.624277,
+        "longitude": -5.913541,
+        "City": "Los Angeles",
+        "temperature": 4,
+        "speed": 28
+    },
+    {
+        "VehicleID": "VH0495",
+        "latitude": -60.109097,
+        "longitude": 57.887184,
+        "City": "Toronto",
+        "temperature": 27,
+        "speed": 97
+    },
+    {
+        "VehicleID": "VH0496",
+        "latitude": 2.70303,
+        "longitude": 64.680858,
+        "City": "New York",
+        "temperature": -10,
+        "speed": 119
+    },
+    {
+        "VehicleID": "VH0497",
+        "latitude": 41.071316,
+        "longitude": 149.660728,
+        "City": "Paris",
+        "temperature": -3,
+        "speed": 195
+    },
+    {
+        "VehicleID": "VH0498",
+        "latitude": -30.997907,
+        "longitude": 163.204107,
+        "City": "Mumbai",
+        "temperature": -9,
+        "speed": 30
+    },
+    {
+        "VehicleID": "VH0499",
+        "latitude": 1.743189,
+        "longitude": 39.330213,
+        "City": "Los Angeles",
+        "temperature": 35,
+        "speed": 184
+    },
+    {
+        "VehicleID": "VH0500",
+        "latitude": 38.888201,
+        "longitude": -139.342127,
+        "City": "New York",
+        "temperature": -1,
+        "speed": 24
+    }
+]

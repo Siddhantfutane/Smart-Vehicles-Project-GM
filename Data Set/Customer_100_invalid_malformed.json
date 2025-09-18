@@ -1,0 +1,902 @@
+[
+
+  {
+    "VehicleID": "VH0801",
+    "latitude": -76.981455,
+    "longitude": 64.151835,
+    "City": "Rome"
+    "temperature": 24,
+    "speed": 44
+  },
+
+  {
+    "VehicleID": "VH0802",
+    "latitude": 19.391742,
+    "longitude": 170.551495,
+    "City": "Rome"
+    "temperature": 24,
+    "speed": 56
+  },
+
+  {
+    "VehicleID": "VH0803",
+    "latitude": 87.403409,
+    "longitude": -118.279221,
+    "City": "Dublin"
+    "temperature": 30,
+    "speed": 5
+  },
+
+  {
+    "VehicleID": "VH0804",
+    "latitude": 59.623896,
+    "longitude": 104.056227,
+    "City": "Rome"
+    "temperature": 36,
+    "speed": 163
+  },
+
+  {
+    "VehicleID": "VH0805",
+    "latitude": 6.754295,
+    "longitude": 109.735306,
+    "City": "Madrid"
+    "temperature": 17,
+    "speed": 129
+  },
+
+  {
+    "VehicleID": "VH0806",
+    "latitude": 1.91201,
+    "longitude": -24.873017,
+    "City": "Beijing"
+    "temperature": 4,
+    "speed": 63
+  },
+
+  {
+    "VehicleID": "VH0807",
+    "latitude": 47.431252,
+    "longitude": 9.654259,
+    "City": "Madrid"
+    "temperature": 5,
+    "speed": 35
+  },
+
+  {
+    "VehicleID": "VH0808",
+    "latitude": 43.392924,
+    "longitude": -119.814716,
+    "City": "Beijing"
+    "temperature": 40,
+    "speed": 148
+  },
+
+  {
+    "VehicleID": "VH0809",
+    "latitude": -17.97417,
+    "longitude": 154.418726,
+    "City": "Madrid"
+    "temperature": 2,
+    "speed": 95
+  },
+
+  {
+    "VehicleID": "VH0810",
+    "latitude": 51.429355,
+    "longitude": 159.645553,
+    "City": "Madrid"
+    "temperature": 12,
+    "speed": 143
+  },
+
+  {
+    "VehicleID": "VH0811",
+    "latitude": -34.541714,
+    "longitude": 6.713772,
+    "City": "Madrid"
+    "temperature": 24,
+    "speed": 27
+  },
+
+  {
+    "VehicleID": "VH0812",
+    "latitude": -54.356757,
+    "longitude": -156.903765,
+    "City": "Beijing"
+    "temperature": 37,
+    "speed": 150
+  },
+
+  {
+    "VehicleID": "VH0813",
+    "latitude": 19.045119,
+    "longitude": -99.855244,
+    "City": "Dublin"
+    "temperature": 24,
+    "speed": 184
+  },
+
+  {
+    "VehicleID": "VH0814",
+    "latitude": -85.721855,
+    "longitude": 140.340904,
+    "City": "Madrid"
+    "temperature": 32,
+    "speed": 178
+  },
+
+  {
+    "VehicleID": "VH0815",
+    "latitude": 8.339099,
+    "longitude": 114.319467,
+    "City": "Rome"
+    "temperature": 35,
+    "speed": 15
+  },
+
+  {
+    "VehicleID": "VH0816",
+    "latitude": 1.153525,
+    "longitude": 14.841479,
+    "City": "Madrid"
+    "temperature": 42,
+    "speed": 136
+  },
+
+  {
+    "VehicleID": "VH0817",
+    "latitude": -83.4217,
+    "longitude": 7.009045,
+    "City": "Dublin"
+    "temperature": 36,
+    "speed": 5
+  },
+
+  {
+    "VehicleID": "VH0818",
+    "latitude": -63.070168,
+    "longitude": -165.968221,
+    "City": "Madrid"
+    "temperature": 35,
+    "speed": 88
+  },
+
+  {
+    "VehicleID": "VH0819",
+    "latitude": 7.779904,
+    "longitude": -11.476689,
+    "City": "Beijing"
+    "temperature": 16,
+    "speed": 83
+  },
+
+  {
+    "VehicleID": "VH0820",
+    "latitude": -22.697533,
+    "longitude": 4.178702,
+    "City": "Dublin"
+    "temperature": 19,
+    "speed": 161
+  },
+
+  {
+    "VehicleID": "VH0821",
+    "latitude": 0.364785,
+    "longitude": -142.128152,
+    "City": "Rome"
+    "temperature": 3,
+    "speed": 91
+  },
+
+  {
+    "VehicleID": "VH0822",
+    "latitude": 14.166608,
+    "longitude": 112.54058,
+    "City": "Madrid"
+    "temperature": 26,
+    "speed": 171
+  },
+
+  {
+    "VehicleID": "VH0823",
+    "latitude": -9.475306,
+    "longitude": -177.203285,
+    "City": "Rome"
+    "temperature": 9,
+    "speed": 176
+  },
+
+  {
+    "VehicleID": "VH0824",
+    "latitude": -7.250479,
+    "longitude": -43.704258,
+    "City": "Beijing"
+    "temperature": 1,
+    "speed": 11
+  },
+
+  {
+    "VehicleID": "VH0825",
+    "latitude": 6.802612,
+    "longitude": 112.769965,
+    "City": "Dublin"
+    "temperature": 8,
+    "speed": 150
+  },
+
+  {
+    "VehicleID": "VH0826",
+    "latitude": -28.825462,
+    "longitude": -154.191892,
+    "City": "Dublin"
+    "temperature": 8,
+    "speed": 149
+  },
+
+  {
+    "VehicleID": "VH0827",
+    "latitude": 70.060403,
+    "longitude": 62.113938,
+    "City": "Madrid"
+    "temperature": 22,
+    "speed": 97
+  },
+
+  {
+    "VehicleID": "VH0828",
+    "latitude": -22.695434,
+    "longitude": 177.629286,
+    "City": "Beijing"
+    "temperature": 33,
+    "speed": 28
+  },
+
+  {
+    "VehicleID": "VH0829",
+    "latitude": -64.562888,
+    "longitude": -24.419345,
+    "City": "Beijing"
+    "temperature": 44,
+    "speed": 163
+  },
+
+  {
+    "VehicleID": "VH0830",
+    "latitude": -52.325677,
+    "longitude": -145.200157,
+    "City": "Beijing"
+    "temperature": 15,
+    "speed": 41
+  },
+
+  {
+    "VehicleID": "VH0831",
+    "latitude": -72.178983,
+    "longitude": 23.490333,
+    "City": "Beijing"
+    "temperature": 14,
+    "speed": 197
+  },
+
+  {
+    "VehicleID": "VH0832",
+    "latitude": -73.203201,
+    "longitude": 146.362973,
+    "City": "Rome"
+    "temperature": 16,
+    "speed": 87
+  },
+
+  {
+    "VehicleID": "VH0833",
+    "latitude": -17.985701,
+    "longitude": -103.237886,
+    "City": "Rome"
+    "temperature": 13,
+    "speed": 194
+  },
+
+  {
+    "VehicleID": "VH0834",
+    "latitude": -60.449627,
+    "longitude": -120.878653,
+    "City": "Madrid"
+    "temperature": 21,
+    "speed": 2
+  },
+
+  {
+    "VehicleID": "VH0835",
+    "latitude": -89.102296,
+    "longitude": -22.73269,
+    "City": "Beijing"
+    "temperature": 14,
+    "speed": 16
+  },
+
+  {
+    "VehicleID": "VH0836",
+    "latitude": 26.408973,
+    "longitude": -73.491746,
+    "City": "Dublin"
+    "temperature": -4,
+    "speed": 44
+  },
+
+  {
+    "VehicleID": "VH0837",
+    "latitude": -71.996566,
+    "longitude": -157.972411,
+    "City": "Dublin"
+    "temperature": 8,
+    "speed": 118
+  },
+
+  {
+    "VehicleID": "VH0838",
+    "latitude": 9.362222,
+    "longitude": -6.187013,
+    "City": "Beijing"
+    "temperature": -2,
+    "speed": 179
+  },
+
+  {
+    "VehicleID": "VH0839",
+    "latitude": -43.924632,
+    "longitude": -152.33107,
+    "City": "Dublin"
+    "temperature": 21,
+    "speed": 110
+  },
+
+  {
+    "VehicleID": "VH0840",
+    "latitude": 19.600175,
+    "longitude": -36.235275,
+    "City": "Beijing"
+    "temperature": 28,
+    "speed": 125
+  },
+
+  {
+    "VehicleID": "VH0841",
+    "latitude": 4.084828,
+    "longitude": 62.757391,
+    "City": "Madrid"
+    "temperature": 28,
+    "speed": 119
+  },
+
+  {
+    "VehicleID": "VH0842",
+    "latitude": 18.768241,
+    "longitude": -16.318488,
+    "City": "Dublin"
+    "temperature": -8,
+    "speed": 90
+  },
+
+  {
+    "VehicleID": "VH0843",
+    "latitude": 51.228062,
+    "longitude": -137.551351,
+    "City": "Madrid"
+    "temperature": 23,
+    "speed": 180
+  },
+
+  {
+    "VehicleID": "VH0844",
+    "latitude": -87.440331,
+    "longitude": -58.012187,
+    "City": "Dublin"
+    "temperature": -10,
+    "speed": 180
+  },
+
+  {
+    "VehicleID": "VH0845",
+    "latitude": 81.547017,
+    "longitude": -57.491899,
+    "City": "Madrid"
+    "temperature": 12,
+    "speed": 173
+  },
+
+  {
+    "VehicleID": "VH0846",
+    "latitude": -32.556604,
+    "longitude": -65.762653,
+    "City": "Rome"
+    "temperature": -10,
+    "speed": 179
+  },
+
+  {
+    "VehicleID": "VH0847",
+    "latitude": -11.275274,
+    "longitude": 171.77754,
+    "City": "Madrid"
+    "temperature": 16,
+    "speed": 75
+  },
+
+  {
+    "VehicleID": "VH0848",
+    "latitude": 44.581912,
+    "longitude": -170.467681,
+    "City": "Rome"
+    "temperature": 30,
+    "speed": 160
+  },
+
+  {
+    "VehicleID": "VH0849",
+    "latitude": 39.556864,
+    "longitude": -74.596922,
+    "City": "Dublin"
+    "temperature": 1,
+    "speed": 106
+  },
+
+  {
+    "VehicleID": "VH0850",
+    "latitude": 25.309176,
+    "longitude": -99.594463,
+    "City": "Madrid"
+    "temperature": 27,
+    "speed": 54
+  },
+
+  {
+    "VehicleID": "VH0851",
+    "latitude": 5.343308,
+    "longitude": -130.90895,
+    "City": "Dublin"
+    "temperature": 30,
+    "speed": 38
+  },
+
+  {
+    "VehicleID": "VH0852",
+    "latitude": -23.079504,
+    "longitude": -2.180415,
+    "City": "Beijing"
+    "temperature": 12,
+    "speed": 26
+  },
+
+  {
+    "VehicleID": "VH0853",
+    "latitude": -63.974482,
+    "longitude": -113.165411,
+    "City": "Dublin"
+    "temperature": 16,
+    "speed": 33
+  },
+
+  {
+    "VehicleID": "VH0854",
+    "latitude": -57.195323,
+    "longitude": 78.968088,
+    "City": "Rome"
+    "temperature": 13,
+    "speed": 80
+  },
+
+  {
+    "VehicleID": "VH0855",
+    "latitude": 11.54587,
+    "longitude": 154.538779,
+    "City": "Rome"
+    "temperature": -6,
+    "speed": 125
+  },
+
+  {
+    "VehicleID": "VH0856",
+    "latitude": -38.545657,
+    "longitude": -168.990301,
+    "City": "Rome"
+    "temperature": 14,
+    "speed": 119
+  },
+
+  {
+    "VehicleID": "VH0857",
+    "latitude": 13.781976,
+    "longitude": 71.903913,
+    "City": "Dublin"
+    "temperature": 1,
+    "speed": 50
+  },
+
+  {
+    "VehicleID": "VH0858",
+    "latitude": 18.826159,
+    "longitude": -157.60335,
+    "City": "Rome"
+    "temperature": -10,
+    "speed": 188
+  },
+
+  {
+    "VehicleID": "VH0859",
+    "latitude": 72.491878,
+    "longitude": 160.301688,
+    "City": "Dublin"
+    "temperature": 18,
+    "speed": 68
+  },
+
+  {
+    "VehicleID": "VH0860",
+    "latitude": 67.48568,
+    "longitude": -125.926585,
+    "City": "Rome"
+    "temperature": 11,
+    "speed": 110
+  },
+
+  {
+    "VehicleID": "VH0861",
+    "latitude": -68.756311,
+    "longitude": 56.463448,
+    "City": "Beijing"
+    "temperature": 13,
+    "speed": 125
+  },
+
+  {
+    "VehicleID": "VH0862",
+    "latitude": -48.269385,
+    "longitude": -0.238316,
+    "City": "Madrid"
+    "temperature": -1,
+    "speed": 32
+  },
+
+  {
+    "VehicleID": "VH0863",
+    "latitude": -24.936007,
+    "longitude": 55.13003,
+    "City": "Beijing"
+    "temperature": 31,
+    "speed": 108
+  },
+
+  {
+    "VehicleID": "VH0864",
+    "latitude": -4.587502,
+    "longitude": 157.947183,
+    "City": "Beijing"
+    "temperature": -9,
+    "speed": 23
+  },
+
+  {
+    "VehicleID": "VH0865",
+    "latitude": -34.660014,
+    "longitude": 18.857968,
+    "City": "Rome"
+    "temperature": -4,
+    "speed": 148
+  },
+
+  {
+    "VehicleID": "VH0866",
+    "latitude": -89.331048,
+    "longitude": 19.430942,
+    "City": "Beijing"
+    "temperature": 27,
+    "speed": 87
+  },
+
+  {
+    "VehicleID": "VH0867",
+    "latitude": -0.998087,
+    "longitude": 132.45523,
+    "City": "Rome"
+    "temperature": 23,
+    "speed": 49
+  },
+
+  {
+    "VehicleID": "VH0868",
+    "latitude": 83.3864,
+    "longitude": -174.899553,
+    "City": "Dublin"
+    "temperature": -6,
+    "speed": 130
+  },
+
+  {
+    "VehicleID": "VH0869",
+    "latitude": -65.033704,
+    "longitude": 54.201293,
+    "City": "Madrid"
+    "temperature": 15,
+    "speed": 34
+  },
+
+  {
+    "VehicleID": "VH0870",
+    "latitude": 73.080314,
+    "longitude": -77.790472,
+    "City": "Dublin"
+    "temperature": 40,
+    "speed": 79
+  },
+
+  {
+    "VehicleID": "VH0871",
+    "latitude": -74.880184,
+    "longitude": 154.378014,
+    "City": "Madrid"
+    "temperature": 28,
+    "speed": 51
+  },
+
+  {
+    "VehicleID": "VH0872",
+    "latitude": -84.725506,
+    "longitude": 67.468356,
+    "City": "Dublin"
+    "temperature": -9,
+    "speed": 175
+  },
+
+  {
+    "VehicleID": "VH0873",
+    "latitude": -83.776425,
+    "longitude": 114.291906,
+    "City": "Beijing"
+    "temperature": 9,
+    "speed": 69
+  },
+
+  {
+    "VehicleID": "VH0874",
+    "latitude": -14.927606,
+    "longitude": 17.805583,
+    "City": "Madrid"
+    "temperature": 15,
+    "speed": 88
+  },
+
+  {
+    "VehicleID": "VH0875",
+    "latitude": 77.546117,
+    "longitude": 125.762543,
+    "City": "Madrid"
+    "temperature": 0,
+    "speed": 37
+  },
+
+  {
+    "VehicleID": "VH0876",
+    "latitude": -19.094821,
+    "longitude": -30.382627,
+    "City": "Beijing"
+    "temperature": 41,
+    "speed": 57
+  },
+
+  {
+    "VehicleID": "VH0877",
+    "latitude": -4.701305,
+    "longitude": 132.976455,
+    "City": "Rome"
+    "temperature": 31,
+    "speed": 12
+  },
+
+  {
+    "VehicleID": "VH0878",
+    "latitude": -84.011627,
+    "longitude": 165.720722,
+    "City": "Rome"
+    "temperature": 36,
+    "speed": 3
+  },
+
+  {
+    "VehicleID": "VH0879",
+    "latitude": -23.082575,
+    "longitude": 140.461904,
+    "City": "Beijing"
+    "temperature": 38,
+    "speed": 121
+  },
+
+  {
+    "VehicleID": "VH0880",
+    "latitude": 62.037511,
+    "longitude": -27.21364,
+    "City": "Rome"
+    "temperature": 0,
+    "speed": 140
+  },
+
+  {
+    "VehicleID": "VH0881",
+    "latitude": -9.910862,
+    "longitude": 179.620609,
+    "City": "Rome"
+    "temperature": 7,
+    "speed": 63
+  },
+
+  {
+    "VehicleID": "VH0882",
+    "latitude": -82.269335,
+    "longitude": -63.324045,
+    "City": "Rome"
+    "temperature": -1,
+    "speed": 106
+  },
+
+  {
+    "VehicleID": "VH0883",
+    "latitude": 48.504599,
+    "longitude": -112.53645,
+    "City": "Rome"
+    "temperature": 9,
+    "speed": 168
+  },
+
+  {
+    "VehicleID": "VH0884",
+    "latitude": -78.79539,
+    "longitude": 61.190253,
+    "City": "Beijing"
+    "temperature": 1,
+    "speed": 114
+  },
+
+  {
+    "VehicleID": "VH0885",
+    "latitude": 78.60437,
+    "longitude": -73.341843,
+    "City": "Dublin"
+    "temperature": 32,
+    "speed": 156
+  },
+
+  {
+    "VehicleID": "VH0886",
+    "latitude": 8.498242,
+    "longitude": 69.738664,
+    "City": "Madrid"
+    "temperature": 26,
+    "speed": 90
+  },
+
+  {
+    "VehicleID": "VH0887",
+    "latitude": -2.46625,
+    "longitude": 3.418283,
+    "City": "Madrid"
+    "temperature": 23,
+    "speed": 175
+  },
+
+  {
+    "VehicleID": "VH0888",
+    "latitude": 65.878727,
+    "longitude": 22.083003,
+    "City": "Rome"
+    "temperature": 45,
+    "speed": 153
+  },
+
+  {
+    "VehicleID": "VH0889",
+    "latitude": 79.834349,
+    "longitude": 133.194506,
+    "City": "Beijing"
+    "temperature": -8,
+    "speed": 68
+  },
+
+  {
+    "VehicleID": "VH0890",
+    "latitude": 85.734535,
+    "longitude": -162.272235,
+    "City": "Dublin"
+    "temperature": 30,
+    "speed": 57
+  },
+
+  {
+    "VehicleID": "VH0891",
+    "latitude": 79.813715,
+    "longitude": 57.742026,
+    "City": "Madrid"
+    "temperature": 1,
+    "speed": 164
+  },
+
+  {
+    "VehicleID": "VH0892",
+    "latitude": 40.201018,
+    "longitude": -69.211714,
+    "City": "Madrid"
+    "temperature": 30,
+    "speed": 132
+  },
+
+  {
+    "VehicleID": "VH0893",
+    "latitude": 43.694395,
+    "longitude": -50.589277,
+    "City": "Rome"
+    "temperature": -7,
+    "speed": 182
+  },
+
+  {
+    "VehicleID": "VH0894",
+    "latitude": 70.061494,
+    "longitude": -140.73147,
+    "City": "Beijing"
+    "temperature": 25,
+    "speed": 10
+  },
+
+  {
+    "VehicleID": "VH0895",
+    "latitude": -75.23078,
+    "longitude": 77.094097,
+    "City": "Madrid"
+    "temperature": 18,
+    "speed": 52
+  },
+
+  {
+    "VehicleID": "VH0896",
+    "latitude": 43.124826,
+    "longitude": -11.736304,
+    "City": "Beijing"
+    "temperature": 31,
+    "speed": 140
+  },
+
+  {
+    "VehicleID": "VH0897",
+    "latitude": -45.113228,
+    "longitude": 67.911823,
+    "City": "Dublin"
+    "temperature": -6,
+    "speed": 5
+  },
+
+  {
+    "VehicleID": "VH0898",
+    "latitude": -79.85733,
+    "longitude": 44.292585,
+    "City": "Rome"
+    "temperature": -5,
+    "speed": 129
+  },
+
+  {
+    "VehicleID": "VH0899",
+    "latitude": -1.790437,
+    "longitude": -107.330207,
+    "City": "Beijing"
+    "temperature": 20,
+    "speed": 53
+  },
+
+  {
+    "VehicleID": "VH0900",
+    "latitude": 10.601403,
+    "longitude": -5.825205,
+    "City": "Dublin"
+    "temperature": 28,
+    "speed": 106
+  }
+]
