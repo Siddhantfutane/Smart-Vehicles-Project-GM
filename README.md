@@ -39,6 +39,8 @@ Delivered a scalable solution that can be extended to multiple data sources and 
 <img width="1919" height="839" alt="image" src="https://github.com/user-attachments/assets/d85f44ff-d448-4dd5-b486-561bea2d078b" />
 
 <img width="1920" height="574" alt="image" src="https://github.com/user-attachments/assets/62ec2c15-b37b-4899-9e0e-9a48a802848b" />
+<img width="1045" height="504" alt="image" src="https://github.com/user-attachments/assets/cca708e0-51cb-46bd-bda9-5b9ba4f59365" />
+
 
 <img width="1443" height="460" alt="image" src="https://github.com/user-attachments/assets/af220a80-3e2f-44b4-9019-9b4a22879c97" />
 
